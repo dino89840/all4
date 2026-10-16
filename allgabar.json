@@ -1,13 +1,13 @@
 {
  "status": {
   "complete": true,
-  "mode": "backfill",
+  "mode": "incremental",
   "totalPages": 729,
   "totalItems": 14566,
   "lastPageFetched": 729,
   "failedPages": [],
   "lastFullCheck": "2026-10-16T09:15:34+00:00",
-  "asOf": "2026-10-16T09:15:34+00:00",
+  "asOf": "2026-10-16T09:24:48+00:00",
   "firstItem": {
    "title": "ကိုကိုနာနေပီတဲ့",
    "thumb": "https://allgabar.com/wp-content/uploads/2026/10/ကိုကိုနာနေပီတဲ့.webp",
