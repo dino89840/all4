@@ -3,15 +3,15 @@
   "complete": true,
   "mode": "incremental",
   "totalPages": 729,
-  "totalItems": 14569,
+  "totalItems": 14575,
   "lastPageFetched": 729,
   "failedPages": [],
   "lastFullCheck": "2026-10-16T09:15:34+00:00",
-  "asOf": "2026-10-16T13:01:24+00:00",
+  "asOf": "2026-10-16T14:01:32+00:00",
   "firstItem": {
-   "title": "နို့အကိတ်နဲ့လိုးလို့ကောင်းတဲ့ မြန်မာမလေး",
-   "thumb": "https://wwwb.12sol.ooguy.com/files/1792149876645_7731a0e7-710f-431c-bf02-4024504b1855.jpg",
-   "detail": "https://allgabar.com/archives/50258"
+   "title": "အရမ်း လှလို့တဲ့(၁၈ မိနစ် စဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/အရမ်း-လှလို့တဲ့၁၈-မိနစ်-စဆုံး.webp",
+   "detail": "https://allgabar.com/archives/50279"
   },
   "lastItem": {
    "title": "ဇာတ်ကားကြည့်ရင်ဖီးလ်လိုးနေတဲ့ဘဲ",
@@ -20,6 +20,36 @@
   }
  },
  "items": [
+  {
+   "title": "အရမ်း လှလို့တဲ့(၁၈ မိနစ် စဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/အရမ်း-လှလို့တဲ့၁၈-မိနစ်-စဆုံး.webp",
+   "detail": "https://allgabar.com/archives/50279"
+  },
+  {
+   "title": "စော်လေးက အောက်တောင်မဆင်းဘူး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/စော်လေးက-အောက်တောင်မဆင်းဘူး.webp",
+   "detail": "https://allgabar.com/archives/50276"
+  },
+  {
+   "title": "အိမ်သာထဲမှာပါကင်ဖွင့်ခံရတဲ့ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/အိမ်သာထဲမှာပါကင်ဖွင့်ခံရတဲ့ကျောင်းသူလေး.webp",
+   "detail": "https://allgabar.com/archives/50272"
+  },
+  {
+   "title": "စတိုင်တမျိုးနဲ့ ထိုင်ပြီး လိုးကြတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/စတိုင်တမျိုးနဲ့-ထိုင်ပြီး-လိုးကြတာ.webp",
+   "detail": "https://allgabar.com/archives/50269"
+  },
+  {
+   "title": "ရေချိုးပြတဲ့စော်အလှလေးကို ဘဲကအိမ်ခေါ်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/ရေချိုးပြတဲ့စော်အလှလေးကို-ဘဲကအိမ်ခေါ်လိုး.webp",
+   "detail": "https://allgabar.com/archives/50266"
+  },
+  {
+   "title": "နံရံလေးမှီပီး လူလစ်တုန်းထန်ပြတဲ့မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/နံရံလေးမှီပီး-လူလစ်တုန်းထန်ပြတဲ့မြန်မာမလေး.webp",
+   "detail": "https://allgabar.com/archives/50263"
+  },
   {
    "title": "နို့အကိတ်နဲ့လိုးလို့ကောင်းတဲ့ မြန်မာမလေး",
    "thumb": "https://wwwb.12sol.ooguy.com/files/1792149876645_7731a0e7-710f-431c-bf02-4024504b1855.jpg",
