@@ -1,22 +1,22 @@
 {
  "status": {
-  "complete": false,
+  "complete": true,
   "mode": "backfill",
-  "totalPages": 700,
-  "totalItems": 14000,
-  "lastPageFetched": 700,
+  "totalPages": 729,
+  "totalItems": 14566,
+  "lastPageFetched": 729,
   "failedPages": [],
-  "lastFullCheck": null,
-  "asOf": "2026-10-16T09:13:57+00:00",
+  "lastFullCheck": "2026-10-16T09:15:34+00:00",
+  "asOf": "2026-10-16T09:15:34+00:00",
   "firstItem": {
    "title": "ကိုကိုနာနေပီတဲ့",
    "thumb": "https://allgabar.com/wp-content/uploads/2026/10/ကိုကိုနာနေပီတဲ့.webp",
    "detail": "https://allgabar.com/archives/50249"
   },
   "lastItem": {
-   "title": "ကွယ်ရာမှာဖောက်ပြန်တဲ့မိန်းမကို ပညာပေး",
-   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-54.jpg",
-   "detail": "https://allgabar.com/archives/2112"
+   "title": "ဇာတ်ကားကြည့်ရင်ဖီးလ်လိုးနေတဲ့ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Picsart_24-01-29_01-54-47-176.jpg",
+   "detail": "https://allgabar.com/archives/21"
   }
  },
  "items": [
@@ -70019,6 +70019,2836 @@
    "title": "ကွယ်ရာမှာဖောက်ပြန်တဲ့မိန်းမကို ပညာပေး",
    "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-54.jpg",
    "detail": "https://allgabar.com/archives/2112"
+  },
+  {
+   "title": "Video မရိုက်နဲ့နော်ဆိုတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-53.jpg",
+   "detail": "https://allgabar.com/archives/2109"
+  },
+  {
+   "title": "လီးစုပ်ရတာ အရမ်းကောင်းတာပဲတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-52.jpg",
+   "detail": "https://allgabar.com/archives/2106"
+  },
+  {
+   "title": "ယားနေကြတဲ့ မြန်မာစော်လေးနှစ်ပွေ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-51.jpg",
+   "detail": "https://allgabar.com/archives/2103"
+  },
+  {
+   "title": "မိန်းမရဲ့ဖင်လေးက ကြပ်နေတာပဲတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-50.jpg",
+   "detail": "https://allgabar.com/archives/2100"
+  },
+  {
+   "title": "လူတွေလစ်နေတုန်း ခိုးစား ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-49.jpg",
+   "detail": "https://allgabar.com/archives/2097"
+  },
+  {
+   "title": "တစ်မျိုးပဲ ဘယ်လိုကြီးလဲတော့ မသိဘူးတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-48.jpg",
+   "detail": "https://allgabar.com/archives/2091"
+  },
+  {
+   "title": "ဆရာမလေးရဲ့အိုးကို အဝလိုးပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-47.jpg",
+   "detail": "https://allgabar.com/archives/2088"
+  },
+  {
+   "title": "ရှက်နေတဲ့ မြန်မာမလေး ကို ပါကင်ဖွင့်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-46.jpg",
+   "detail": "https://allgabar.com/archives/2085"
+  },
+  {
+   "title": "စောက်ဖုတ်ယားနေတဲ့ မြန်မာကျောင်းဆရာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-45.jpg",
+   "detail": "https://allgabar.com/archives/2082"
+  },
+  {
+   "title": "မတ်တပ်ရပ်ပြီးလိုးတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-44.jpg",
+   "detail": "https://allgabar.com/archives/2078"
+  },
+  {
+   "title": "မြန်မာဆေးကျောင်းသူ အထန်မလေး အရှက်ကုန်ရောပဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_2-1.jpg",
+   "detail": "https://allgabar.com/archives/2075"
+  },
+  {
+   "title": "အပေးကတော့ ရှယ်ကောင်းတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_2.jpg",
+   "detail": "https://allgabar.com/archives/2072"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန်သနပ်ခါးလေးနဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-43.jpg",
+   "detail": "https://allgabar.com/archives/2069"
+  },
+  {
+   "title": "အကိတ်မမကို အသေလိုးပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-42.jpg",
+   "detail": "https://allgabar.com/archives/2066"
+  },
+  {
+   "title": "အဖြူကောင်နဲ့မိန်းမကို ပေးလိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-41.jpg",
+   "detail": "https://allgabar.com/archives/2063"
+  },
+  {
+   "title": "အရသာသစ်ပေးမယ်ဆိုပြီး မိန်းမကို ဘော်ဒါနဲ့ပေးလိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-40.jpg",
+   "detail": "https://allgabar.com/archives/2060"
+  },
+  {
+   "title": "မြန်မာစုံတွဲ ခြုံတိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-39.jpg",
+   "detail": "https://allgabar.com/archives/2057"
+  },
+  {
+   "title": "ကားထဲမှာ လိုးတာခံရတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-38.jpg",
+   "detail": "https://allgabar.com/archives/2048"
+  },
+  {
+   "title": "ကျောင်းပျက်ထဲမှာ ခိုးလိုးကြတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-37.jpg",
+   "detail": "https://allgabar.com/archives/2043"
+  },
+  {
+   "title": "လီးစုပ်တာ ဆရာကျတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-36.jpg",
+   "detail": "https://allgabar.com/archives/2040"
+  },
+  {
+   "title": "လီးကောက်ကြီးနဲ့လိုးမှတော့ မျော့နေပြီပေါ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-35.jpg",
+   "detail": "https://allgabar.com/archives/2037"
+  },
+  {
+   "title": "ဆယ်လီတွေ ရှယ်ယွချက်ပဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-34.jpg",
+   "detail": "https://allgabar.com/archives/2033"
+  },
+  {
+   "title": "စော်လေးကို အမူးတိုက်ပြီး ပြုစုပေးတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-33.jpg",
+   "detail": "https://allgabar.com/archives/2029"
+  },
+  {
+   "title": "ကျောက်ဆောင်ကျောက်တုံးကြားမှာ လိုးတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-32.jpg",
+   "detail": "https://allgabar.com/archives/2026"
+  },
+  {
+   "title": "နိုင်ငံခြားသားကို ကုန်းတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-31.jpg",
+   "detail": "https://allgabar.com/archives/2023"
+  },
+  {
+   "title": "ဆိုင်ကယ်ပေါ်မှာ ဖင်ကုန်းပြီး အလိုးခံတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-30.jpg",
+   "detail": "https://allgabar.com/archives/2020"
+  },
+  {
+   "title": "စိတ်ထလာအောင် အစိကို ပွတ်ပေးပြီး လိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-29.jpg",
+   "detail": "https://allgabar.com/archives/2017"
+  },
+  {
+   "title": "ပထမနှစ်တက်နေတဲ့ ကျောင်းသူလေးကို ပါကင်ဖွင့်တာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-28.jpg",
+   "detail": "https://allgabar.com/archives/2013"
+  },
+  {
+   "title": "ကျောင်းဆရာမ ဖင်ကို အသေလိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-27.jpg",
+   "detail": "https://allgabar.com/archives/2009"
+  },
+  {
+   "title": "အပျိုပေါက်အရွယ် ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-26.jpg",
+   "detail": "https://allgabar.com/archives/2006"
+  },
+  {
+   "title": "အမှန်အကန် ရှယ်လိုးကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-25.jpg",
+   "detail": "https://allgabar.com/archives/2003"
+  },
+  {
+   "title": "နန်းစုပုလဲထက် အစအဆုံး အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-24.jpg",
+   "detail": "https://allgabar.com/archives/1999"
+  },
+  {
+   "title": "ရိုက်ကွင်းမှာ ဖင်ချခံလိုက်ရတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-23.jpg",
+   "detail": "https://allgabar.com/archives/1996"
+  },
+  {
+   "title": "မြမြ ရဲ့ငိုရှိုက်သံ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-22.jpg",
+   "detail": "https://allgabar.com/archives/1992"
+  },
+  {
+   "title": "လက်ညိုးကို ဖင်ထဲထည့်တာ နာလို့တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-21.jpg",
+   "detail": "https://allgabar.com/archives/1988"
+  },
+  {
+   "title": "အရေဖြူတွေပါ ထွက်ကျတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-20.jpg",
+   "detail": "https://allgabar.com/archives/1984"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန်ဆံပင်အရှည်နဲ့မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-19.jpg",
+   "detail": "https://allgabar.com/archives/1980"
+  },
+  {
+   "title": "Wedding မှာ ရှယ်အလိုးခံလိုက်ရတဲ့ သတို့သမီးလေး မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-18.jpg",
+   "detail": "https://allgabar.com/archives/1977"
+  },
+  {
+   "title": "စောက်ဖုတ်ကို နာနာရိုက်ပြီး ကောင်းလား မေးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-17.jpg",
+   "detail": "https://allgabar.com/archives/1974"
+  },
+  {
+   "title": "ပူစီလေးကို ပွှတ်ပြီး အာသာဖြေ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-16.jpg",
+   "detail": "https://allgabar.com/archives/1971"
+  },
+  {
+   "title": "အိမ်ဘေးနားက အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-15.jpg",
+   "detail": "https://allgabar.com/archives/1967"
+  },
+  {
+   "title": "ရည်းစား ကောင်မလေးကို အိမ်ခေါ်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-14.jpg",
+   "detail": "https://allgabar.com/archives/1964"
+  },
+  {
+   "title": "ယောက်ျားလေးတွေ လီးကို ပြောင်းဆွဲတာ ရှည်ရဲ့လား (မြမြ)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-13.jpg",
+   "detail": "https://allgabar.com/archives/1961"
+  },
+  {
+   "title": "ကျောင်းသူအလန်းဇယားလေးရဲ့ အချစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-12.jpg",
+   "detail": "https://allgabar.com/archives/1958"
+  },
+  {
+   "title": "အထက်တန်းတက်နေတဲ့ ကျောင်းသူလေးတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-11.jpg",
+   "detail": "https://allgabar.com/archives/1954"
+  },
+  {
+   "title": "အရမ်းနာတယ် အော်ယူရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-10.jpg",
+   "detail": "https://allgabar.com/archives/1951"
+  },
+  {
+   "title": "တိုင်းရင်းသူအချောလေးကို ဖင်ရော အဖုတ်ရော ဖွင့်ပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-9.jpg",
+   "detail": "https://allgabar.com/archives/1948"
+  },
+  {
+   "title": "မြန်မာစုံတွဲ ကိုယ်တိုင်ရိုက် အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-8.jpg",
+   "detail": "https://allgabar.com/archives/1945"
+  },
+  {
+   "title": "အရမ်းကို ထန်တဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-7.jpg",
+   "detail": "https://allgabar.com/archives/1942"
+  },
+  {
+   "title": "မိန်းမ အိပ်နေတုန်း ရှယ်လိုးပေးထားတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-6.jpg",
+   "detail": "https://allgabar.com/archives/1939"
+  },
+  {
+   "title": "ကိုယ့်လီးကို ကြိုက်လားမေးပြီး စောက်ဖုတ်လိုးရင် ဖင်ကို ကလိ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-5.jpg",
+   "detail": "https://allgabar.com/archives/1936"
+  },
+  {
+   "title": "ရှယ် ဖင်ကြီးကို ကပ်တိုးလေး လိုးပေးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-4.jpg",
+   "detail": "https://allgabar.com/archives/1932"
+  },
+  {
+   "title": "ဖုန်းပြင်ဆိုင်ကနေ HD ပေါက်ကြားသွားတဲ့ မြန်မာမော်ဒယ်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-3.jpg",
+   "detail": "https://allgabar.com/archives/1929"
+  },
+  {
+   "title": "ခေါင်းကိုကိုင်ပြီး လီးစုပ်ခိုင်းတာ ခံရတဲ့ စော်အလန်းလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-2.jpg",
+   "detail": "https://allgabar.com/archives/1924"
+  },
+  {
+   "title": "စော်ကို သူငယ်ချင်းဖြစ်သူနဲ့လိုးခိုင်းတဲ့ မြန်မာ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1-1.jpg",
+   "detail": "https://allgabar.com/archives/1920"
+  },
+  {
+   "title": "နာမည်ကြီးခဲ့တဲ့ GTC ကျောင်းသူ အတွဲလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/05/Screenshot_1.jpg",
+   "detail": "https://allgabar.com/archives/1916"
+  },
+  {
+   "title": "ဟိုတယ်မှာ ချိန်းပြီး ရှယ်လိုးတဲ့ မြန်မာစုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-91.jpg",
+   "detail": "https://allgabar.com/archives/1912"
+  },
+  {
+   "title": "မြန်မာလင်မယားအတွဲ (ချောင်းရိုက်အောကား)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-90.jpg",
+   "detail": "https://allgabar.com/archives/1909"
+  },
+  {
+   "title": "ညနေ သုံးနာရီတောင် ထိုးပြီလားတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-89.jpg",
+   "detail": "https://allgabar.com/archives/1906"
+  },
+  {
+   "title": "ဟော်တယ်မှာ ရိုက်တဲ့ မြန်မာ အောကား အရှည်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-88.jpg",
+   "detail": "https://allgabar.com/archives/1903"
+  },
+  {
+   "title": "မြန်မာဝတ်စုံလေးနဲ့အဖုတ်ယားတဲ့ မမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-87.jpg",
+   "detail": "https://allgabar.com/archives/1899"
+  },
+  {
+   "title": "ဇာတ်ကြောတက်နေတဲ့ သူငယ်ချင်းမိန်းမကို တက်လိုးပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-86.jpg",
+   "detail": "https://allgabar.com/archives/1896"
+  },
+  {
+   "title": "ဖင်တုန် နဲ့ခါရမ်းနေတဲ့ နို့တွေပြတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-85.jpg",
+   "detail": "https://allgabar.com/archives/1893"
+  },
+  {
+   "title": "ရေဆေးပြီ်းမှ လိုးတာ မနံဘူးဆိုတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-84.jpg",
+   "detail": "https://allgabar.com/archives/1890"
+  },
+  {
+   "title": "ရှယ်လိုးကြတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-83.jpg",
+   "detail": "https://allgabar.com/archives/1886"
+  },
+  {
+   "title": "3 ယောက်ဝိုင်းလိုးတာ ရှယ်ခံနေတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-82.jpg",
+   "detail": "https://allgabar.com/archives/1883"
+  },
+  {
+   "title": "မျော့နေအောင် အပေါ်ကနေ တက်ဆောင့်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-81.jpg",
+   "detail": "https://allgabar.com/archives/1880"
+  },
+  {
+   "title": "Sunday ကော်ဖီအေးဗူးကို စောက်ဖုတ်ထဲ ထည့်ပြတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-80.jpg",
+   "detail": "https://allgabar.com/archives/1877"
+  },
+  {
+   "title": "နာမည်ကြီး ဆယ်လီမလေး နန်းစုပုလဲထက် အပိုင်း 3",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-79.jpg",
+   "detail": "https://allgabar.com/archives/1874"
+  },
+  {
+   "title": "နာမည်ကြီး ဆယ်လီမလေး နန်းစုပုလဲထက် အောကား အပိုင်း 2",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-78.jpg",
+   "detail": "https://allgabar.com/archives/1871"
+  },
+  {
+   "title": "နာမည်ကြီး ဆယ်လီမလေး နန်းစုပုလဲထက် အောကား အပိုင်း 1",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_6.jpg",
+   "detail": "https://allgabar.com/archives/1867"
+  },
+  {
+   "title": "ဂွင်းထုပေးနေတာ ချောင်းရိုက် အသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_3.jpg",
+   "detail": "https://allgabar.com/archives/1863"
+  },
+  {
+   "title": "ချစ်စရာ နို့ဝိုင်းဝိုင်းလေးနဲ့မြန်မာ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_2-4.jpg",
+   "detail": "https://allgabar.com/archives/1857"
+  },
+  {
+   "title": "အရမ်းနာတယ်ဆိုတဲ့ မြန်မာဆန်ဆန် စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-77.jpg",
+   "detail": "https://allgabar.com/archives/1854"
+  },
+  {
+   "title": "ပန်းခြံထဲမှာ လီးစုပ်တဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-76.jpg",
+   "detail": "https://allgabar.com/archives/1851"
+  },
+  {
+   "title": "အရမ်းထန်နေတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-75.jpg",
+   "detail": "https://allgabar.com/archives/1845"
+  },
+  {
+   "title": "ပလွှတ်ပလွှတ်နဲ့နတ်ပြည်ရောက်နေတဲ့ နှင်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-74.jpg",
+   "detail": "https://allgabar.com/archives/1842"
+  },
+  {
+   "title": "ပုဆိုးခင်းမနေနဲ့ ဒီအတိုင်းလိုးဆိုတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-73.jpg",
+   "detail": "https://allgabar.com/archives/1839"
+  },
+  {
+   "title": "ဌက်ပျောရွတ်ခင်းပြီးတော့ ချုံတိုး ရှယ်လိုးကြတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-72.jpg",
+   "detail": "https://allgabar.com/archives/1836"
+  },
+  {
+   "title": "အိုးတောင့်တဲ့ သူငယ်ချင်းမိန်းမကို တက်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-71.jpg",
+   "detail": "https://allgabar.com/archives/1833"
+  },
+  {
+   "title": "ချစ်စရာ အကိတ်မလေးကို လိုးပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-70.jpg",
+   "detail": "https://allgabar.com/archives/1830"
+  },
+  {
+   "title": "အရမ်းကောင်းတယ် ပြီးတော့မယ်တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-69.jpg",
+   "detail": "https://allgabar.com/archives/1826"
+  },
+  {
+   "title": "ဟိုတယ်မှာ မမကို ခေါ်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_2-3.jpg",
+   "detail": "https://allgabar.com/archives/1823"
+  },
+  {
+   "title": "တောထဲမှာ မြန်မာမလေးကို ဖင်ထောင်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-68.jpg",
+   "detail": "https://allgabar.com/archives/1820"
+  },
+  {
+   "title": "ကျောင်းသူလေး မြမြ နှင့် အင်္ဂလန်က ဆရာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-66.jpg",
+   "detail": "https://allgabar.com/archives/1814"
+  },
+  {
+   "title": "ပန်းခြံထဲ မတ်တပ် လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-65.jpg",
+   "detail": "https://allgabar.com/archives/1810"
+  },
+  {
+   "title": "ကြိုက်တဲ့ အပေါက်ကို လိုးနော် ကိုကို",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-64.jpg",
+   "detail": "https://allgabar.com/archives/1807"
+  },
+  {
+   "title": "ကားထဲမှာ ရှယ်ဗျင်းကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-63.jpg",
+   "detail": "https://allgabar.com/archives/1804"
+  },
+  {
+   "title": "အရမ်း ကောင်းလို့တဲ့ အော်နေရရှာတယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-62.jpg",
+   "detail": "https://allgabar.com/archives/1801"
+  },
+  {
+   "title": "Tomboy လေးကို ရှယ်လိုးပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-61.jpg",
+   "detail": "https://allgabar.com/archives/1796"
+  },
+  {
+   "title": "ရေချိုးခန်းထဲမှာ ရှယ်လိုးတဲ့ လူငယ်စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-60.jpg",
+   "detail": "https://allgabar.com/archives/1793"
+  },
+  {
+   "title": "သူများတွေမြင်ကုန်မယ်ဆိုပြီး ေတာထဲ ခိုးစားတဲ့ ေစာ္",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_2-2.jpg",
+   "detail": "https://allgabar.com/archives/1790"
+  },
+  {
+   "title": "လီးအရမ်းကြိုက်တယ်ဆိုတဲ့ မြန်မာအထန်စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-59.jpg",
+   "detail": "https://allgabar.com/archives/1787"
+  },
+  {
+   "title": "ကြိုက်လား စောက်ကောင်မဆို ပြီးတော့ မေးမေး လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-58.jpg",
+   "detail": "https://allgabar.com/archives/1784"
+  },
+  {
+   "title": "အပေါ်ကနေ ရှယ် တက်ဆောင့်နေတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-57.jpg",
+   "detail": "https://allgabar.com/archives/1781"
+  },
+  {
+   "title": "တစ်ယောက်တည်း ရှယ် ယားပြနေတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-56.jpg",
+   "detail": "https://allgabar.com/archives/1777"
+  },
+  {
+   "title": "လေးဖက်ထောက်ပြီး ရှယ်လိုးခံရတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-55.jpg",
+   "detail": "https://allgabar.com/archives/1774"
+  },
+  {
+   "title": "သုံးယောက် တစ်ယောက် ဝိုင်းလိုးတာ ခံလိုက်ရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-54.jpg",
+   "detail": "https://allgabar.com/archives/1771"
+  },
+  {
+   "title": "သံခြေကျင်းတပ်ပြီးတော့ ရှယ်အလိုးခံရတဲ့ Mya Mya",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-53.jpg",
+   "detail": "https://allgabar.com/archives/1768"
+  },
+  {
+   "title": "သူစိမ်းနဲ့ မေ ကို အပြီလိုးခိုင်းပြီးတော့ ထိုင်ကြည့်တဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-52.jpg",
+   "detail": "https://allgabar.com/archives/1765"
+  },
+  {
+   "title": "အဖုတ် နဲ့မြန်မာဘီယာ တွေ့တဲ့အခါ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-51.jpg",
+   "detail": "https://allgabar.com/archives/1762"
+  },
+  {
+   "title": "ဖင် ပါကင် အဖွင့်ခံရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-50.jpg",
+   "detail": "https://allgabar.com/archives/1759"
+  },
+  {
+   "title": "လက်ရော လီးရော အဖုတ်ထဲ ထိုးထည့်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-49.jpg",
+   "detail": "https://allgabar.com/archives/1754"
+  },
+  {
+   "title": "ရမ်းခါနေတဲ့ နို့နှစ်လုံး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-48.jpg",
+   "detail": "https://allgabar.com/archives/1751"
+  },
+  {
+   "title": "ယောက်ျားလိုးပေးတာ ကောင်းရဲ့လားတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-47.jpg",
+   "detail": "https://allgabar.com/archives/1748"
+  },
+  {
+   "title": "သကြားလုံးရော လီးအတုရော အစစ်ရော ထည့်အလိုးခံလိုက်ရတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-46.jpg",
+   "detail": "https://allgabar.com/archives/1745"
+  },
+  {
+   "title": "မြန်မာဘီယာပုလင်းနဲ့ကြမ်းတဲ့ ဖွေးဖွေး တို့သူငယ်ချင်းများ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-45.jpg",
+   "detail": "https://allgabar.com/archives/1742"
+  },
+  {
+   "title": "အသေလိုးတာ နာတယ် နာတယ် တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-44.jpg",
+   "detail": "https://allgabar.com/archives/1739"
+  },
+  {
+   "title": "လုံချည်ကို လှန်ပြီး တက်လိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-43.jpg",
+   "detail": "https://allgabar.com/archives/1736"
+  },
+  {
+   "title": "နေမကောင်းလို့အားဆေးတောင် ထိုးနေရတယ် ကိုကြီး တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-42.jpg",
+   "detail": "https://allgabar.com/archives/1733"
+  },
+  {
+   "title": "ထမင်းစားနေရင်း ထလိုးတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-41.jpg",
+   "detail": "https://allgabar.com/archives/1730"
+  },
+  {
+   "title": "ဆောင့်ပေးပါဦး ပီးတော့မယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-40.jpg",
+   "detail": "https://allgabar.com/archives/1727"
+  },
+  {
+   "title": "ရေခဲချောင်းစုပ်သလို မောင့်ဟာကြီး စုပ်ပေးရမလားတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-39.jpg",
+   "detail": "https://allgabar.com/archives/1724"
+  },
+  {
+   "title": "ကိုကို လိုးပေးပါ ခံချင်တယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-38.jpg",
+   "detail": "https://allgabar.com/archives/1720"
+  },
+  {
+   "title": "ဖင်ကို သေချာကောက်ပြီးတော့ ကုန်းထားစမ်း တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-37.jpg",
+   "detail": "https://allgabar.com/archives/1714"
+  },
+  {
+   "title": "ပန်းခြံထဲမှာ ရှယ်ခိုးစားနေတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-36.jpg",
+   "detail": "https://allgabar.com/archives/1711"
+  },
+  {
+   "title": "နေပြည်တော်က ဝန်ထမ်း ကောင်မလေး အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-35.jpg",
+   "detail": "https://allgabar.com/archives/1705"
+  },
+  {
+   "title": "တော်ပါတော့ တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-34.jpg",
+   "detail": "https://allgabar.com/archives/1702"
+  },
+  {
+   "title": "မမ ရဲ့ လီးစုပ်အစွမ်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-33.jpg",
+   "detail": "https://allgabar.com/archives/1699"
+  },
+  {
+   "title": "ဖယောင်းစက်တွေပါ အချခံတဲ့ မြန်မာမလေးရဲ့ အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-32.jpg",
+   "detail": "https://allgabar.com/archives/1696"
+  },
+  {
+   "title": "မိန်းမကို ပုဆိုးလှန်ပြီး တက်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-31.jpg",
+   "detail": "https://allgabar.com/archives/1693"
+  },
+  {
+   "title": "အထန်ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-30.jpg",
+   "detail": "https://allgabar.com/archives/1690"
+  },
+  {
+   "title": "အားရအောင် လိုးပေးမှာနော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-29.jpg",
+   "detail": "https://allgabar.com/archives/1683"
+  },
+  {
+   "title": "လင်ငယ်နဲ့အလိုးခံနေရင်း လင်ကြီးနဲ့ဖုန်းပြောနေတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-28.jpg",
+   "detail": "https://allgabar.com/archives/1679"
+  },
+  {
+   "title": "အောကား ရိုက်မလို့လီးသေချာစုပ်နော်တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-27.jpg",
+   "detail": "https://allgabar.com/archives/1676"
+  },
+  {
+   "title": "ဘဲအပေါ်ကနေ ရှယ်စောင့်ပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-26.jpg",
+   "detail": "https://allgabar.com/archives/1673"
+  },
+  {
+   "title": "အထန် စော်လေးကို ရှယ်ဖြုတ်ပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-25.jpg",
+   "detail": "https://allgabar.com/archives/1669"
+  },
+  {
+   "title": "ချစ်စရာ ဖင်လုံးလေးကို တီးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-24.jpg",
+   "detail": "https://allgabar.com/archives/1666"
+  },
+  {
+   "title": "ဘောင်းဘီတောင် မချွတ်ဘဲ ဗျင်းတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_2-1.jpg",
+   "detail": "https://allgabar.com/archives/1663"
+  },
+  {
+   "title": "သနပ်ခါးလေးနဲ့မြန်မာမလေး အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-23.jpg",
+   "detail": "https://allgabar.com/archives/1660"
+  },
+  {
+   "title": "ချစ်လို့ဆိုပြီးတော့ လီးစုပ်ပေးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-22.jpg",
+   "detail": "https://allgabar.com/archives/1657"
+  },
+  {
+   "title": "အိုးရှယ်ကြီးကို ဖင်ထောင်လိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-21.jpg",
+   "detail": "https://allgabar.com/archives/1651"
+  },
+  {
+   "title": "အကိတ်မမကို တောထဲ ခေါ်ပြီး လိုးပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-20.jpg",
+   "detail": "https://allgabar.com/archives/1648"
+  },
+  {
+   "title": "ယောက်ျားလေးအဆောင်နဲ့ဟိုတယ်တွေမှာ လိုက်ကုန်းတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-19.jpg",
+   "detail": "https://allgabar.com/archives/1644"
+  },
+  {
+   "title": "ကောင်မ နင်ခံချင်နေတာမလားဆိုပြီး မေးမေးလိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-18.jpg",
+   "detail": "https://allgabar.com/archives/1641"
+  },
+  {
+   "title": "တစ်ယောက်တည်း အဖုတ်ယားနေတဲ့ အညာသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-17.jpg",
+   "detail": "https://allgabar.com/archives/1637"
+  },
+  {
+   "title": "ဘဲကို နိုင်ငံခြားမထွက်ခင် ပေးလိုးတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-16.jpg",
+   "detail": "https://allgabar.com/archives/1633"
+  },
+  {
+   "title": "ဘဲကို လီးကုန်းစုပ်ပေးနေတာ ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-15.jpg",
+   "detail": "https://allgabar.com/archives/1630"
+  },
+  {
+   "title": "ကိုကို မရွံဘူးလားဆိုပြီး လက်က ခေါင်းကို မလွှတ်ပေးတော့ဘူး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-14.jpg",
+   "detail": "https://allgabar.com/archives/1627"
+  },
+  {
+   "title": "ဂျပန်မှာ ကျောင်းတက်ရင်း ရှယ်အလိုးခံရတဲ့ အေးမိစံ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-13.jpg",
+   "detail": "https://allgabar.com/archives/1624"
+  },
+  {
+   "title": "အန်တီကြီးကို လေးဘက်ထောက်ခိုင်းပြီး ရှယ်လိုးပေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-12.jpg",
+   "detail": "https://allgabar.com/archives/1621"
+  },
+  {
+   "title": "သခွားသီးနဲ့ လိုးနေရရှာတဲ့ ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-11.jpg",
+   "detail": "https://allgabar.com/archives/1618"
+  },
+  {
+   "title": "ကောင်းလိုက်တာ ကိုကိုရယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_2.jpg",
+   "detail": "https://allgabar.com/archives/1615"
+  },
+  {
+   "title": "အီစိမ့်နေအောင် လျှာနဲ့ ယက်ခံရတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-10.jpg",
+   "detail": "https://allgabar.com/archives/1612"
+  },
+  {
+   "title": "လီးကို အသံတွေမြည်အောင် စုပ်တဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-9.jpg",
+   "detail": "https://allgabar.com/archives/1608"
+  },
+  {
+   "title": "အရမ်းကောင်းတယ် ပီးလိုက်တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-8.jpg",
+   "detail": "https://allgabar.com/archives/1605"
+  },
+  {
+   "title": "အနောက်ကနေ ရှယ်ဗျင်းတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-7.jpg",
+   "detail": "https://allgabar.com/archives/1602"
+  },
+  {
+   "title": "အဝတ်လျှော်နေတုန်း တက်လိုးခံလိုက်ရတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-6.jpg",
+   "detail": "https://allgabar.com/archives/1599"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန် အထန်လေးရဲ့ Solo",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-5-e1712035570408.jpg",
+   "detail": "https://allgabar.com/archives/1596"
+  },
+  {
+   "title": "သုံးပွင့်ဆိုင် မြမြ အောကား ( FFM )",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-4-e1711986582887.jpg",
+   "detail": "https://allgabar.com/archives/1593"
+  },
+  {
+   "title": "မြန်မာစော်အလန်းလေး ရဲ့ အိမ်တွင်ဖြစ်အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-3.jpg",
+   "detail": "https://allgabar.com/archives/1590"
+  },
+  {
+   "title": "Mask တပ်ပြီးတော့ အဖုတ် ယက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-2.jpg",
+   "detail": "https://allgabar.com/archives/1585"
+  },
+  {
+   "title": "စော်ကို ဟိုတယ်မှာ ခေါ်စားတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1-1.jpg",
+   "detail": "https://allgabar.com/archives/1582"
+  },
+  {
+   "title": "မျက်နှာပါအောင် ဘာလို့ရိုက်နေတာလဲဆိုတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/04/Screenshot_1.jpg",
+   "detail": "https://allgabar.com/archives/1579"
+  },
+  {
+   "title": "မြင်းစီးလိုးရတာ ကောင်းလွန်းလို့အော်နေရတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-207.jpg",
+   "detail": "https://allgabar.com/archives/1576"
+  },
+  {
+   "title": "ဆေးခန်းပြန်ရောက်နေဦးမယ်နော် ဆိုတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-206.jpg",
+   "detail": "https://allgabar.com/archives/1570"
+  },
+  {
+   "title": "အရမ်းကောင်းတယ်ဆိုတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-205.jpg",
+   "detail": "https://allgabar.com/archives/1567"
+  },
+  {
+   "title": "ဖြေးဖြေးလေးနဲ့ဇိမ်နဲ့လိုးပေးနေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-204.jpg",
+   "detail": "https://allgabar.com/archives/1564"
+  },
+  {
+   "title": "အရည်ရွှမ်းပြီး အလိုးကြမ်းတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-203.jpg",
+   "detail": "https://allgabar.com/archives/1561"
+  },
+  {
+   "title": "ချစ်စရာ ရှမ်းတရုတ်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-202.jpg",
+   "detail": "https://allgabar.com/archives/1558"
+  },
+  {
+   "title": "မမအရွယ်တွေ အပြုအစု ရှယ်ကောင်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-201.jpg",
+   "detail": "https://allgabar.com/archives/1554"
+  },
+  {
+   "title": "စော် အလန်းလေးကို လီး ရှယ်စုပ်ခိုင်းတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-200.jpg",
+   "detail": "https://allgabar.com/archives/1551"
+  },
+  {
+   "title": "လိုးတာ နာလားလို့မေးပြီး ဗျင်းတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-199.jpg",
+   "detail": "https://allgabar.com/archives/1548"
+  },
+  {
+   "title": "ဟော်တယ်မှာ ဘဲ ခေါ်စားတဲ့ စားစော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-198.jpg",
+   "detail": "https://allgabar.com/archives/1544"
+  },
+  {
+   "title": "ယောက်ျားသိမှာစိုးလို့မျက်နှာမပါစေနဲ့တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-197.jpg",
+   "detail": "https://allgabar.com/archives/1538"
+  },
+  {
+   "title": "ဆံရှည်လေးနဲ့မြန်မာမလေး လီးပေါ် တက်ဆောင့်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-196.jpg",
+   "detail": "https://allgabar.com/archives/1535"
+  },
+  {
+   "title": "ထိုင်းမှာ အလုပ်လုပ်နေတဲ့ မြန်မာစုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-195.jpg",
+   "detail": "https://allgabar.com/archives/1532"
+  },
+  {
+   "title": "လီးစုပ်ရတာ ကြိုက်တဲ့ မမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-194.jpg",
+   "detail": "https://allgabar.com/archives/1529"
+  },
+  {
+   "title": "ရှယ် ဖင်ကြီး ကို လိုးခွဲတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-193.jpg",
+   "detail": "https://allgabar.com/archives/1517"
+  },
+  {
+   "title": "နံပြားကို ဒီဂျေပွတ်ပြနေတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-192.jpg",
+   "detail": "https://allgabar.com/archives/1512"
+  },
+  {
+   "title": "လီးစုပ် တော်တဲ့ ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-191.jpg",
+   "detail": "https://allgabar.com/archives/1509"
+  },
+  {
+   "title": "အရမ်းကောင်းလိုက်တာ ကောင်းလိုက်တာ တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-190.jpg",
+   "detail": "https://allgabar.com/archives/1505"
+  },
+  {
+   "title": "ကိုကို ပြီးပြီ လရည် သောက်တော့တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-189.jpg",
+   "detail": "https://allgabar.com/archives/1502"
+  },
+  {
+   "title": "သနပ်ခါးတွေတော့ ပျက်ကုန်ပါပီတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-188.jpg",
+   "detail": "https://allgabar.com/archives/1499"
+  },
+  {
+   "title": "တစ်ယောက်တည်း ထန်ပြနေတဲ့ ဆယ်တန်းကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-187.jpg",
+   "detail": "https://allgabar.com/archives/1496"
+  },
+  {
+   "title": "ဘုရားလည်း ဖူး မူစကူလည်းဒူး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-186.jpg",
+   "detail": "https://allgabar.com/archives/1493"
+  },
+  {
+   "title": "ပျော်ပျော်ပါးပါး ချိန်းလိုးကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-185.jpg",
+   "detail": "https://allgabar.com/archives/1490"
+  },
+  {
+   "title": "လီးရှည်ကြီးကို အားရပါးရ တက်ဆောင့်တဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-184.jpg",
+   "detail": "https://allgabar.com/archives/1487"
+  },
+  {
+   "title": "သားအိမ်ကို ထောက်မှ ထိတာတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-183.jpg",
+   "detail": "https://allgabar.com/archives/1483"
+  },
+  {
+   "title": "မြင်းစီးတာ သဘောကျတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-182.jpg",
+   "detail": "https://allgabar.com/archives/1480"
+  },
+  {
+   "title": "အဖုတ်ယားနေရှာတဲ့ မြန်မာအချောလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-181.jpg",
+   "detail": "https://allgabar.com/archives/1476"
+  },
+  {
+   "title": "လီးလဲ စုပ်ပေး ဖင်လည်း ကုန်းပေးတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-180.jpg",
+   "detail": "https://allgabar.com/archives/1473"
+  },
+  {
+   "title": "ဆော်ကို အိမ်ခေါ်ပြီး အပီ လိုးတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-13.jpg",
+   "detail": "https://allgabar.com/archives/1470"
+  },
+  {
+   "title": "ဥတွေပါ ငုံပြီး စုပ်တဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-179.jpg",
+   "detail": "https://allgabar.com/archives/1467"
+  },
+  {
+   "title": "လိုးနည်းအစုံ အလိုးခံရတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-178.jpg",
+   "detail": "https://allgabar.com/archives/1464"
+  },
+  {
+   "title": "အပျို အငုံလေး သေးပေါက်တာကို ချောင်းရိုက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_3-2.jpg",
+   "detail": "https://allgabar.com/archives/1461"
+  },
+  {
+   "title": "ဟောင်ကောင်မှာ အောကား ရိုက်ခံလိုက်ရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-177.jpg",
+   "detail": "https://allgabar.com/archives/1439"
+  },
+  {
+   "title": "အိမ့်ထရစ်ရှာ အောကား HD ပေါက်ကြားလာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-176.jpg",
+   "detail": "https://allgabar.com/archives/1428"
+  },
+  {
+   "title": "သူနာပြုဆရာမလေးရဲ့ Solo HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-175.jpg",
+   "detail": "https://allgabar.com/archives/1422"
+  },
+  {
+   "title": "ဝေးနေတော့ Sex Chat အတူရှိရင် ဖင်ကုန်းတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-174.jpg",
+   "detail": "https://allgabar.com/archives/1419"
+  },
+  {
+   "title": "မော်လမြိုင်က လူငယ် စုံတွဲ နာမည်ကြီး HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-173.jpg",
+   "detail": "https://allgabar.com/archives/1416"
+  },
+  {
+   "title": "ဂေါ်လီလီးနဲ့လိုးရတော့ အရည်တွေ ရွှဲကုန်တာပေါ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-172.jpg",
+   "detail": "https://allgabar.com/archives/1413"
+  },
+  {
+   "title": "နောက်ကနေ ဆံပင်ဆွဲလိုးပြီး ကောင်းလား မေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-171.jpg",
+   "detail": "https://allgabar.com/archives/1410"
+  },
+  {
+   "title": "လီးစုပ်ရင်း အိပ်ပျော်သွားတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-170.jpg",
+   "detail": "https://allgabar.com/archives/1407"
+  },
+  {
+   "title": "နန်းဝေေ၀မြင့် အောကား HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-169.jpg",
+   "detail": "https://allgabar.com/archives/1404"
+  },
+  {
+   "title": "လီးစုပ်တာ ဆရာကျတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-168.jpg",
+   "detail": "https://allgabar.com/archives/1401"
+  },
+  {
+   "title": "အိမ်နံရံထောင့်မှာ လိုးနေကြတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-167.jpg",
+   "detail": "https://allgabar.com/archives/1398"
+  },
+  {
+   "title": "ဂိမ်းဆော့ရင်း လီးစုပ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-166.jpg",
+   "detail": "https://allgabar.com/archives/1395"
+  },
+  {
+   "title": "ကိုးတန်းကျောင်းသူ အဝတ်လဲတာ ချောင်းရိုက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-165.jpg",
+   "detail": "https://allgabar.com/archives/1392"
+  },
+  {
+   "title": "ကားထဲမှာ လီးစုပ်ပေးတဲ့ ကုလားမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-164.jpg",
+   "detail": "https://allgabar.com/archives/1388"
+  },
+  {
+   "title": "မြန်မာစော် နှစ်ယောက် လိုးကြတာ ( Lesbian)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-163.jpg",
+   "detail": "https://allgabar.com/archives/1384"
+  },
+  {
+   "title": "ရေချိုးခန်းထဲ တစ်ချီဆွဲတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-162.jpg",
+   "detail": "https://allgabar.com/archives/1381"
+  },
+  {
+   "title": "ပန်းခြံထဲမှာ ရှယ်ကြမ်းတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-161.jpg",
+   "detail": "https://allgabar.com/archives/1376"
+  },
+  {
+   "title": "ရှယ်မိုက်တဲ့ ချောင်းရိုက် အသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-160.jpg",
+   "detail": "https://allgabar.com/archives/1373"
+  },
+  {
+   "title": "ရှယ်ကြမ်းတဲ့ မြန်မာ BDSM",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-159.jpg",
+   "detail": "https://allgabar.com/archives/1368"
+  },
+  {
+   "title": "ဘဲရှိတဲ့နေရာကို လာကုန်းတဲ့ ရန်ကုန်သူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-158.jpg",
+   "detail": "https://allgabar.com/archives/1365"
+  },
+  {
+   "title": "ဆေးကျောင်းက ဟေလရီစိုး ရဲ့ HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-157.jpg",
+   "detail": "https://allgabar.com/archives/1362"
+  },
+  {
+   "title": "မြင်းစီး ကျွမ်းတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-156.jpg",
+   "detail": "https://allgabar.com/archives/1359"
+  },
+  {
+   "title": "ရှယ်ကြမ်းတဲ့ ဆယ်ကျော်သက် လေးတွေ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-155.jpg",
+   "detail": "https://allgabar.com/archives/1354"
+  },
+  {
+   "title": "နေ့တိုင်းအမြဲလိုးပေးမယ်နော် တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-154.jpg",
+   "detail": "https://allgabar.com/archives/1350"
+  },
+  {
+   "title": "အမြန်ဆောင့်ပေးပါ တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-153.jpg",
+   "detail": "https://allgabar.com/archives/1347"
+  },
+  {
+   "title": "စောက်ရည်တွေ ထွက်နေပီမလား မေးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-152.jpg",
+   "detail": "https://allgabar.com/archives/1343"
+  },
+  {
+   "title": "လက်နဲ့သေချာဖြဲထားပေးစမ်း တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-151.jpg",
+   "detail": "https://allgabar.com/archives/1339"
+  },
+  {
+   "title": "အိမ်က ကြီးတော်တို့လင်မယား ကြမ်းချက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-150.jpg",
+   "detail": "https://allgabar.com/archives/1336"
+  },
+  {
+   "title": "ခြုံကွယ်ပြီး လိုးတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-149.jpg",
+   "detail": "https://allgabar.com/archives/1332"
+  },
+  {
+   "title": "တိုက်ကြားထဲမှာ ခိုးလိုးတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-148.jpg",
+   "detail": "https://allgabar.com/archives/1328"
+  },
+  {
+   "title": "ကျောင်းသူလေး မြင်းတက်စီးပြီး ရှယ်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-147.jpg",
+   "detail": "https://allgabar.com/archives/1323"
+  },
+  {
+   "title": "အပေးကောင်းတဲ့ အိုးကြီးကို လိုးခွဲတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-146.jpg",
+   "detail": "https://allgabar.com/archives/1317"
+  },
+  {
+   "title": "ကျောင်းဘေးနားမှာ ခိုးလိုးကြတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-145.jpg",
+   "detail": "https://allgabar.com/archives/1313"
+  },
+  {
+   "title": "နေ့လည်စာ စောက်ဖုတ် ကျွေးတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-144.jpg",
+   "detail": "https://allgabar.com/archives/1309"
+  },
+  {
+   "title": "ခင်ဂျူလှိုင်ကို ရဲ့ အောကား HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_3-1.jpg",
+   "detail": "https://allgabar.com/archives/1305"
+  },
+  {
+   "title": "လီးကြီးတာ တစ်ဝတ်ပဲ စုပ်လို့ရတယ်တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-143.jpg",
+   "detail": "https://allgabar.com/archives/1297"
+  },
+  {
+   "title": "အကြမ်းအတမ်း လိုးတာ ခံချင်နေတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-142.jpg",
+   "detail": "https://allgabar.com/archives/1294"
+  },
+  {
+   "title": "ခရမ်းသီးမှ အားရတဲ့ ကိုးတန်းကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_4.jpg",
+   "detail": "https://allgabar.com/archives/1289"
+  },
+  {
+   "title": "ရည်းစားကို နို့နဲ့အဖုတ်ကို ပွတ်ပြတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-141.jpg",
+   "detail": "https://allgabar.com/archives/1286"
+  },
+  {
+   "title": "ဒီလိုအိုးမျိုးက ဖင်ထောင်လိုးပေးမှ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-140.jpg",
+   "detail": "https://allgabar.com/archives/1283"
+  },
+  {
+   "title": "69 ဆွဲပြီး လိုးတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-139.jpg",
+   "detail": "https://allgabar.com/archives/1280"
+  },
+  {
+   "title": "အရမ်းထန်ပြနေတဲ့ ကုလားမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-138.jpg",
+   "detail": "https://allgabar.com/archives/1276"
+  },
+  {
+   "title": "ကိုဘာဂျာနဲ့မြန်မာ အလန်းစော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-137.jpg",
+   "detail": "https://allgabar.com/archives/1273"
+  },
+  {
+   "title": "မြန်မာမလေး ချစ်စရာလေးကို ရှယ် ဗျင်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-136.jpg",
+   "detail": "https://allgabar.com/archives/1267"
+  },
+  {
+   "title": "ချစ်စရာ စော်လေးကို ဖျင်းတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-12.jpg",
+   "detail": "https://allgabar.com/archives/1263"
+  },
+  {
+   "title": "တက်တူးဆရာ တက်ကြုံးတာ ခံလိုက်ရတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-135.jpg",
+   "detail": "https://allgabar.com/archives/1258"
+  },
+  {
+   "title": "နာတယ်သာပြောတာ အဆုံးထိ လိုးပေးပါတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-134.jpg",
+   "detail": "https://allgabar.com/archives/1255"
+  },
+  {
+   "title": "အလိုးခံရတာ ကောင်းလား မေးမေးပြီး လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-133.jpg",
+   "detail": "https://allgabar.com/archives/1252"
+  },
+  {
+   "title": "အမှန်အကန် ရှယ်လိုးတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-132.jpg",
+   "detail": "https://allgabar.com/archives/1249"
+  },
+  {
+   "title": "ဘဲက ကုန်းဆို ကုန်း ဖြဲဆို ဖြဲပေးတဲ့ အထန်မ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-131.jpg",
+   "detail": "https://allgabar.com/archives/1246"
+  },
+  {
+   "title": "ဘဲပေါ် မြင်းတတ်စီးတဲ့ ဆရာမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-130.jpg",
+   "detail": "https://allgabar.com/archives/1242"
+  },
+  {
+   "title": "ဟော်တယ်မှာ ရှယ် လိုးကြတဲ့ မြန်မာ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-129.jpg",
+   "detail": "https://allgabar.com/archives/1234"
+  },
+  {
+   "title": "လီးစုပ် တော်တဲ့ စားဆော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-128.jpg",
+   "detail": "https://allgabar.com/archives/1216"
+  },
+  {
+   "title": "အိပ်နေတဲ့မိန်းမကိုတက်ဘုတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-127.jpg",
+   "detail": "https://allgabar.com/archives/1213"
+  },
+  {
+   "title": "အပေးလည်းကောင်း အိုးကလည်း ကောင်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-11-e1711009432228.jpg",
+   "detail": "https://allgabar.com/archives/1210"
+  },
+  {
+   "title": "အရမ်းထန်ကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-126.jpg",
+   "detail": "https://allgabar.com/archives/1206"
+  },
+  {
+   "title": "စောက်ရမ်း ထန်တဲ့ စော် အချောလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-125.jpg",
+   "detail": "https://allgabar.com/archives/1200"
+  },
+  {
+   "title": "ဆိုင်ကယ်ရပ်ပြီးတော့ လီးစုပ်တဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-124.jpg",
+   "detail": "https://allgabar.com/archives/1197"
+  },
+  {
+   "title": "ကိုယ့်အရှေ့မှာ အောကား ထိုင်ကြည့်နေရသလိုပဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-123.jpg",
+   "detail": "https://allgabar.com/archives/1194"
+  },
+  {
+   "title": "အဖုတ် ဖောင်းဖောင်းလေးနဲ့မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-122.jpg",
+   "detail": "https://allgabar.com/archives/1189"
+  },
+  {
+   "title": "လီးဆာနေတာ ကြာပြီဆိုတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-121.jpg",
+   "detail": "https://allgabar.com/archives/1184"
+  },
+  {
+   "title": "အရမ်း ထန်တဲ့ မြန်မာဆန်ဆန် စော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-10.jpg",
+   "detail": "https://allgabar.com/archives/1180"
+  },
+  {
+   "title": "မြန်မာ ဝတ်စုံ နဲ့ကောင်မလေး ချောင်းရိုက် အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-120.jpg",
+   "detail": "https://allgabar.com/archives/1176"
+  },
+  {
+   "title": "ရှင် လိုးလို့ပြီးပြီလား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-119.jpg",
+   "detail": "https://allgabar.com/archives/1172"
+  },
+  {
+   "title": "သနပ်ခါးနဲ့ မိုက်ခဲနေတဲ့ အန်တီကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-118.jpg",
+   "detail": "https://allgabar.com/archives/1169"
+  },
+  {
+   "title": "လီးတစ်ဆုံးထိ ရောက်အောင် စုပ်ပေးတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-117.jpg",
+   "detail": "https://allgabar.com/archives/1157"
+  },
+  {
+   "title": "တော်ပါပြီ ပြောတာကို ပီးအောင် လီးစုပ်ခိုင်းတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-116.jpg",
+   "detail": "https://allgabar.com/archives/1154"
+  },
+  {
+   "title": "သနပ်ခါးပါးကွတ်ကြားလေးနဲ့ အဖုတ်ယားနေတဲ့ သူမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-115.jpg",
+   "detail": "https://allgabar.com/archives/1151"
+  },
+  {
+   "title": "ကိုယ်တိုင်ရှယ်ရိုက်တဲ့ မြန်မာစုံတွဲ အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-114.jpg",
+   "detail": "https://allgabar.com/archives/1147"
+  },
+  {
+   "title": "အဖုတ် ယက်လိုက် တက်လိုးလိုက်ပဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-113.jpg",
+   "detail": "https://allgabar.com/archives/1144"
+  },
+  {
+   "title": "အလိုးခံရတာ ကောင်းလားမေးပြီး ရှယ်လိုးတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-111.jpg",
+   "detail": "https://allgabar.com/archives/1140"
+  },
+  {
+   "title": "အိမ်ကို လာလည်တဲ့ ခယ်မလေးကို ရှယ်လိုးပေးလိုက်တဲ့ မုဆိုးဘို",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-112.jpg",
+   "detail": "https://allgabar.com/archives/1138"
+  },
+  {
+   "title": "ကိုးတန်းကျောင်းသူလေး စောက်ဖုတ် ယားနေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-110.jpg",
+   "detail": "https://allgabar.com/archives/1135"
+  },
+  {
+   "title": "အသံရော ရုပ်ရော ပါတဲ့ ချောင်းရိုက် HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-109.jpg",
+   "detail": "https://allgabar.com/archives/1132"
+  },
+  {
+   "title": "အရမ်း နှိုက်တတ်တဲ့ မောင်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-108.jpg",
+   "detail": "https://allgabar.com/archives/1128"
+  },
+  {
+   "title": "စော်လေးက အလန်းဆိုတော့ ရှယ်လိုးပေးနေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-107.jpg",
+   "detail": "https://allgabar.com/archives/1123"
+  },
+  {
+   "title": "တူမလေး ထှေးထှေး အပိုင်း ၂ အသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-106.jpg",
+   "detail": "https://allgabar.com/archives/1120"
+  },
+  {
+   "title": "မတ်တပ်လိုးကြတဲ့ မြန်မာစုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-105.jpg",
+   "detail": "https://allgabar.com/archives/1116"
+  },
+  {
+   "title": "မြန်မာ တောတိုး အောကား အသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-104.jpg",
+   "detail": "https://allgabar.com/archives/1112"
+  },
+  {
+   "title": "ကုတင်အောက်မှာ ဖျာခင်းပြီး ဆင်းလိုးကြတဲ့ လင်မယား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-103.jpg",
+   "detail": "https://allgabar.com/archives/1108"
+  },
+  {
+   "title": "အဖုတ်ကို ယက်ပြီးတော့မှ ရှယ်လိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-102.jpg",
+   "detail": "https://allgabar.com/archives/1105"
+  },
+  {
+   "title": "ဟောင်ကောင်မှာ အောကား ရိုက်နေတဲ့ ရှမ်းတရုတ်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-101.jpg",
+   "detail": "https://allgabar.com/archives/1102"
+  },
+  {
+   "title": "တစ်ခါချ 5000",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-100.jpg",
+   "detail": "https://allgabar.com/archives/1099"
+  },
+  {
+   "title": "မသိသလိုလေးနဲ့ အဖုတ် နှိုက်နေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-99.jpg",
+   "detail": "https://allgabar.com/archives/1096"
+  },
+  {
+   "title": "အိမ်ဘေးမှာ လူမမြင်အောင် ဆွဲနေတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-98.jpg",
+   "detail": "https://allgabar.com/archives/1092"
+  },
+  {
+   "title": "နောက်ပေါက် ကိုပါ အဖွင့်ခံလိုက်ရတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-97.jpg",
+   "detail": "https://allgabar.com/archives/1089"
+  },
+  {
+   "title": "အိမ်ဘေးကလင်မယား ကြမ်းချက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-96.jpg",
+   "detail": "https://allgabar.com/archives/1086"
+  },
+  {
+   "title": "မျက်နှာပေါ် အပန်းခံရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-95.jpg",
+   "detail": "https://allgabar.com/archives/1083"
+  },
+  {
+   "title": "တစ်ယောက်တည်း အဖုတ်ယားနေတဲ့ မင်းဘူးသူ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-94.jpg",
+   "detail": "https://allgabar.com/archives/1080"
+  },
+  {
+   "title": "ဒီတခါဆို ၄ ကြိမ်ရှိပြီနော် တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-93.jpg",
+   "detail": "https://allgabar.com/archives/1075"
+  },
+  {
+   "title": "ချိန်းတွေ့နေရင်းနဲ့ ဘာဂျာမှုတ်တဲ့ ကျော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-92.jpg",
+   "detail": "https://allgabar.com/archives/1071"
+  },
+  {
+   "title": "ကျောင်းဘေးနားမှာ လာလိုးနေတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-91.jpg",
+   "detail": "https://allgabar.com/archives/1068"
+  },
+  {
+   "title": "ထီးလေးကာပြီး နို့ညှစ်နေတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-90.jpg",
+   "detail": "https://allgabar.com/archives/1065"
+  },
+  {
+   "title": "ဘဲပေါ်ကို ပေါ်တင်ကြီး မြင်းတက်စီးတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-89.jpg",
+   "detail": "https://allgabar.com/archives/1062"
+  },
+  {
+   "title": "မောင် အရမ်း မနှိုက်နဲ့နော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-88.jpg",
+   "detail": "https://allgabar.com/archives/1058"
+  },
+  {
+   "title": "အရမ်းကောင်းတာပဲ ကိုကို တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-87.jpg",
+   "detail": "https://allgabar.com/archives/1055"
+  },
+  {
+   "title": "မြန်မာ 2 in 1 မျက်နှာပါ ဇာတ်ကားအရှည်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-86.jpg",
+   "detail": "https://allgabar.com/archives/1051"
+  },
+  {
+   "title": "ဆယ်တန်းဖြေဖို့တည်းခိုခန်းမှာ စာကျက်ရင်း ဘဲနဲ့လိုးတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-85.jpg",
+   "detail": "https://allgabar.com/archives/1048"
+  },
+  {
+   "title": "ဆာလာအိတ်ခင်းပြီးတော့ မြေကြီးပေါ်မှာ ရှယ်လိုးတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-84.jpg",
+   "detail": "https://allgabar.com/archives/1045"
+  },
+  {
+   "title": "စော်လေးကို မတ်တပ် လိုးပေးတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-83.jpg",
+   "detail": "https://allgabar.com/archives/1042"
+  },
+  {
+   "title": "သူငယ်ချင်းလိုးပေးတာက ယောက်ျားထက် ပိုကောင်းတယ်ဆိုတဲ့ စော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-82.jpg",
+   "detail": "https://allgabar.com/archives/1039"
+  },
+  {
+   "title": "အပြာကား ကြည့်ပြီး အဖုတ်ယားနေတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-81.jpg",
+   "detail": "https://allgabar.com/archives/1035"
+  },
+  {
+   "title": "ဘဲ အပေါ် တက်ခွပြီး ကြမ်းတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-80.jpg",
+   "detail": "https://allgabar.com/archives/1032"
+  },
+  {
+   "title": "မြန်မာလူငယ်စုံတွဲ ၂တွဲ ချိန်းတွေ့ (ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-79.jpg",
+   "detail": "https://allgabar.com/archives/1028"
+  },
+  {
+   "title": "ရှက်တတ်တဲ့ ကောင်မလေးကို နို့လှန်ပြီး ကိုင်နေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-78.jpg",
+   "detail": "https://allgabar.com/archives/1025"
+  },
+  {
+   "title": "ကျောင်းဆရာမလေး ရှယ် ဗျင်းခံရ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-77.jpg",
+   "detail": "https://allgabar.com/archives/1022"
+  },
+  {
+   "title": "အောကားကြည့်ရင်း ဖင်ကုန်းပေးတဲ့ ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-76.jpg",
+   "detail": "https://allgabar.com/archives/1019"
+  },
+  {
+   "title": "အဖုတ်ကို ပြူးပြဲနေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-75.jpg",
+   "detail": "https://allgabar.com/archives/1016"
+  },
+  {
+   "title": "ဘဏ်ဝန်ထမ်းမလေး ရှယ် အလိုးခံရ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-74.jpg",
+   "detail": "https://allgabar.com/archives/1013"
+  },
+  {
+   "title": "ငယ်ပေမယ့် မီးပွင့်အောင် လိုးတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-73.jpg",
+   "detail": "https://allgabar.com/archives/1009"
+  },
+  {
+   "title": "မြန်မာ ချောင်းရိုက် အရှည်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-72.jpg",
+   "detail": "https://allgabar.com/archives/1005"
+  },
+  {
+   "title": "ဘဲမရှိတဲ့အချိန် ယွနေတဲ့ အထန်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-71.jpg",
+   "detail": "https://allgabar.com/archives/1002"
+  },
+  {
+   "title": "အရမ်း နာအောင် မလိုးရဘူးနော် ကိုကို",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-70.jpg",
+   "detail": "https://allgabar.com/archives/999"
+  },
+  {
+   "title": "ဖင်ရော အဖုတ်ရော အလိုးခံရတဲ့ မမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-69.jpg",
+   "detail": "https://allgabar.com/archives/996"
+  },
+  {
+   "title": "အရမ်း လိုးလို့ကောင်းတာပဲ ယောက်ျားရေ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-68.jpg",
+   "detail": "https://allgabar.com/archives/993"
+  },
+  {
+   "title": "ညားခါစလင်မယား တစ်နေကုန် လိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-67.jpg",
+   "detail": "https://allgabar.com/archives/990"
+  },
+  {
+   "title": "ဆော်ကြီးက အပေါ်ကနေကို တက်ဆောင့်ပေးနေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-66.jpg",
+   "detail": "https://allgabar.com/archives/987"
+  },
+  {
+   "title": "ကျောင်းသူလေး အဝတ်လဲ (ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-65.jpg",
+   "detail": "https://allgabar.com/archives/983"
+  },
+  {
+   "title": "ဂေါ်လီ လီးနဲ့ ထန်တဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-64.jpg",
+   "detail": "https://allgabar.com/archives/979"
+  },
+  {
+   "title": "မျက်နှာပါတာ မရိုက်နဲ့နော်ဆိုတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-63.jpg",
+   "detail": "https://allgabar.com/archives/975"
+  },
+  {
+   "title": "လီးပေါ် တက်ခွပြီး ရှယ်ဆောင့်တဲ့ ဆော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-62.jpg",
+   "detail": "https://allgabar.com/archives/972"
+  },
+  {
+   "title": "TU က ကျောင်းသူလေး တို့အတွဲ ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-61.jpg",
+   "detail": "https://allgabar.com/archives/969"
+  },
+  {
+   "title": "ရေမဆေးဘဲ ဂျာချင်စရာ ပူစီလေးတွေ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-60.jpg",
+   "detail": "https://allgabar.com/archives/966"
+  },
+  {
+   "title": "နန်းမွေစံ ရေချိုးနေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-59.jpg",
+   "detail": "https://allgabar.com/archives/962"
+  },
+  {
+   "title": "အသက် ငယ်ပေမယ့် ဆရာကျတဲ့ ကိုးတန်းကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-58.jpg",
+   "detail": "https://allgabar.com/archives/959"
+  },
+  {
+   "title": "လက်တလော နာမည်ကြီးနေတဲ့ ဆော်အထန်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-57.jpg",
+   "detail": "https://allgabar.com/archives/956"
+  },
+  {
+   "title": "ဆော်က လန်းလည်းလန်း ကိတ်လည်း ရှယ်ကိတ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-56.jpg",
+   "detail": "https://allgabar.com/archives/952"
+  },
+  {
+   "title": "ကားထဲမှာ ခေါ်အလိုးခံလိုက်ရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-55.jpg",
+   "detail": "https://allgabar.com/archives/949"
+  },
+  {
+   "title": "ဆယ်တန်းကျောင်းသူအတွဲ HD အသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-9.jpg",
+   "detail": "https://allgabar.com/archives/946"
+  },
+  {
+   "title": "လူကတော့ မူကြို လီးက တက္ကသိုလ်ရောက်နေတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-54.jpg",
+   "detail": "https://allgabar.com/archives/940"
+  },
+  {
+   "title": "သစ်ပင်အောက်မှာ ရှယ်ယွတဲ့ စုံတွဲ ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-53.jpg",
+   "detail": "https://allgabar.com/archives/936"
+  },
+  {
+   "title": "ကလေး နဲ့ ကိုကို",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-52.jpg",
+   "detail": "https://allgabar.com/archives/931"
+  },
+  {
+   "title": "တစ်ယောက်တည်း ထန်နေတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-51.jpg",
+   "detail": "https://allgabar.com/archives/928"
+  },
+  {
+   "title": "လီးအရမ်း ဆာနေပြီ တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_3.jpg",
+   "detail": "https://allgabar.com/archives/924"
+  },
+  {
+   "title": "လီးစုပ်တာ တော်တဲ့ ခယ်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-8.jpg",
+   "detail": "https://allgabar.com/archives/922"
+  },
+  {
+   "title": "ဦးဘမွငျ့ ရဲ့ ခစြျဒုက်ခ (မွမွ) အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-50.jpg",
+   "detail": "https://allgabar.com/archives/919"
+  },
+  {
+   "title": "လင်ငယ် နဲ့သွား ကုန်းပေးတဲ့ ထန်းငယ်တောသူ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-49.jpg",
+   "detail": "https://allgabar.com/archives/915"
+  },
+  {
+   "title": "သာသာယာယာ လိုးကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-48.jpg",
+   "detail": "https://allgabar.com/archives/910"
+  },
+  {
+   "title": "မနေနိုင်တော့ဘူး လုပ်ပေးပါတော့ဆိုတဲ့ ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-47.jpg",
+   "detail": "https://allgabar.com/archives/897"
+  },
+  {
+   "title": "အရမ်းကောင်းလို့ငိုနေတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-46.jpg",
+   "detail": "https://allgabar.com/archives/894"
+  },
+  {
+   "title": "လမ်းမပေါ်မှာ ဆိုင်ကယ်ရပ်ပြီး ကြမ်းတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-7.jpg",
+   "detail": "https://allgabar.com/archives/891"
+  },
+  {
+   "title": "Ma TheinGi အောကားများစုစည်းမှု",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-45.jpg",
+   "detail": "https://allgabar.com/archives/888"
+  },
+  {
+   "title": "လိုးသာလိုး အော်ငိုတာ အလကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-44.jpg",
+   "detail": "https://allgabar.com/archives/884"
+  },
+  {
+   "title": "ဆော်လေးကို နှိုက်မြည်းတဲ့ ဘဲ ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-43.jpg",
+   "detail": "https://allgabar.com/archives/881"
+  },
+  {
+   "title": "ကိုယ့်မိန်းမရဲ့ အဖုတ်ကို ကြွားတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-42.jpg",
+   "detail": "https://allgabar.com/archives/878"
+  },
+  {
+   "title": "မြန်မာ ချောင်းရိုက် အလန်းလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-6.jpg",
+   "detail": "https://allgabar.com/archives/875"
+  },
+  {
+   "title": "နှစ်ယောက်စလုံး ရှယ်ထန်တဲ့ မြန်မာ လူငယ်စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-41.jpg",
+   "detail": "https://allgabar.com/archives/872"
+  },
+  {
+   "title": "မမကို ရှယ်ဖြုတ်ပေးတဲ့ မောင်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-40.jpg",
+   "detail": "https://allgabar.com/archives/869"
+  },
+  {
+   "title": "ခါရမ်းလွန်းတဲ့ နို့နှစ်လုံး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-39.jpg",
+   "detail": "https://allgabar.com/archives/865"
+  },
+  {
+   "title": "ပြဲသွားပြီလားမသိဘူး အရမ်းစပ်တယ်ဆိုတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-38.jpg",
+   "detail": "https://allgabar.com/archives/862"
+  },
+  {
+   "title": "ဖူးပွင့်ခိုင် အောကား ရွယ်အလိုးခံရတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-37.jpg",
+   "detail": "https://allgabar.com/archives/858"
+  },
+  {
+   "title": "ဖွတ်ဖွတ်ညက်ညက် ကြေအောင် အလိုးခံရတဲ့ မန်းလေး ရဲမေ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-36.jpg",
+   "detail": "https://allgabar.com/archives/854"
+  },
+  {
+   "title": "အရမ်းလိုးတတ်တာပဲ လီးက အကြီးကြီးပဲ ပြောတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-35.jpg",
+   "detail": "https://allgabar.com/archives/851"
+  },
+  {
+   "title": "စောက်ဖုတ်က အရမ်းကြပ်နေတယ် ကိုကို",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-34.jpg",
+   "detail": "https://allgabar.com/archives/847"
+  },
+  {
+   "title": "အဖုတ်ကနေ အရည် တစ်တောက်တောက် ကျနေတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-33.jpg",
+   "detail": "https://allgabar.com/archives/844"
+  },
+  {
+   "title": "လက်တလော နာမည်ကြီးနေတဲ့ ျမန္မာ Gamer မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-32.jpg",
+   "detail": "https://allgabar.com/archives/841"
+  },
+  {
+   "title": "ဆယ်ကျော်သက် ပေါက်စလေး ရှယ်အလိုးခံရ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-31.jpg",
+   "detail": "https://allgabar.com/archives/838"
+  },
+  {
+   "title": "တောထဲမှာ ရှယ်ခိုးစားကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-30.jpg",
+   "detail": "https://allgabar.com/archives/834"
+  },
+  {
+   "title": "ဟိုတယ်မှာ ပထမဆုံး ပါကင်အဖွင့်ခံရတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-29.jpg",
+   "detail": "https://allgabar.com/archives/831"
+  },
+  {
+   "title": "ဖုန်းလာနေတာတောင် အလိုးမပျက်တဲ့ ဘဲကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-28.jpg",
+   "detail": "https://allgabar.com/archives/828"
+  },
+  {
+   "title": "ရောင်းစားတာ ခံလိုက်ရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-27.jpg",
+   "detail": "https://allgabar.com/archives/825"
+  },
+  {
+   "title": "ဆော်လေးက နို့ရည်တွေပါ ကျကုန်တာ ( ကိုယ်တိုင်ရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-26.jpg",
+   "detail": "https://allgabar.com/archives/822"
+  },
+  {
+   "title": "လူငယ်ပေမယ့် စမူဆာက မငယ်ဘူး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-25.jpg",
+   "detail": "https://allgabar.com/archives/819"
+  },
+  {
+   "title": "စောက်စိကို ပွတ်ပွတ် ဆွဲပြီးမှ လိုးတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-24.jpg",
+   "detail": "https://allgabar.com/archives/816"
+  },
+  {
+   "title": "ပေါက်ကြားလာတဲ့ မေသက်ခိုင် အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-23.jpg",
+   "detail": "https://allgabar.com/archives/813"
+  },
+  {
+   "title": "ကျောင်းသူလေးဖြစ်သွားတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-22.jpg",
+   "detail": "https://allgabar.com/archives/809"
+  },
+  {
+   "title": "16 နှစ်နဲ့သိုင်းကျမ်းကြေ နေတဲ့ မိန်းကလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-20.jpg",
+   "detail": "https://allgabar.com/archives/805"
+  },
+  {
+   "title": "ခေါ်ထားတဲ့ ဂိုက်က စာမသင်ဘဲ တက်လိုးတာခံလိုက်ရတဲ့ ဆယ်တန်းကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-5.jpg",
+   "detail": "https://allgabar.com/archives/802"
+  },
+  {
+   "title": "ငယ်သံပါအောင် အော်နေရတဲ့ ကိုးတန်းကျောင်းသူ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-4.jpg",
+   "detail": "https://allgabar.com/archives/798"
+  },
+  {
+   "title": "အဖုတ်နှုတ်ခမ်းနဲ့လီးကို ဆွဲညှပ်ပြီး လိုးတဲ့ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-19.jpg",
+   "detail": "https://allgabar.com/archives/795"
+  },
+  {
+   "title": "တောသူ တွေ လိုးတာ ကြမ်းချက်ပဲ ( ကိုယ်တိုင်ရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-18.jpg",
+   "detail": "https://allgabar.com/archives/792"
+  },
+  {
+   "title": "မော်လမြိုင်သူလေးတွေ အပေးကောင်းပြီး ရှယ်ထန်တယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-17.jpg",
+   "detail": "https://allgabar.com/archives/788"
+  },
+  {
+   "title": "ကျစ်ဆံမှီး နဲ့ကောင်မလေးကို Toilet ထဲ ခေါ်လိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-16.jpg",
+   "detail": "https://allgabar.com/archives/785"
+  },
+  {
+   "title": "ဆော်လေးက ချစ်စရာလေး ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-3.jpg",
+   "detail": "https://allgabar.com/archives/782"
+  },
+  {
+   "title": "မသန်းေ၀ နဲ့ တူမလေး ထွေး ရဲ ့ဇာတ်လမ်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-15.jpg",
+   "detail": "https://allgabar.com/archives/779"
+  },
+  {
+   "title": "နို့နဲ့အဖုတ် လှန်ပြတဲ့ ဆယ်တန်းကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-14.jpg",
+   "detail": "https://allgabar.com/archives/776"
+  },
+  {
+   "title": "KTV မှာ နို့နဲ့အဖုတ်တွေ ဝိုင်းကလိတာ ခံရတဲ့ ဖွေးဖွေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-13.jpg",
+   "detail": "https://allgabar.com/archives/772"
+  },
+  {
+   "title": "ဆယ်ကျော်သက် မြန်မာ လူငယ်စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-12.jpg",
+   "detail": "https://allgabar.com/archives/769"
+  },
+  {
+   "title": "ဆော်လေးကို ဆီဆွတ်ပြီးတော့ ဖင်လိုးပေးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-2.jpg",
+   "detail": "https://allgabar.com/archives/766"
+  },
+  {
+   "title": "အဖုတ် ယားနေတဲ့ ဖြိုးအိအိဇော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-11.jpg",
+   "detail": "https://allgabar.com/archives/762"
+  },
+  {
+   "title": "ဇင်ဇင်ဇော်မြင့် အောကား HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-10.jpg",
+   "detail": "https://allgabar.com/archives/758"
+  },
+  {
+   "title": "လိုးကောင်းကောင်းနဲ့လိုးနေတာ လူလာတာတောင် မသိလိုက်တဲ့ အတွဲ ( ေခ်ာင္းရိုက္)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-9.jpg",
+   "detail": "https://allgabar.com/archives/745"
+  },
+  {
+   "title": "နိုင်ငံခြားသားနဲ့အောကားရိုက်ပြီး ငွေရှာနေတဲ့ မုံရွာသူလေး ထွေးမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-8.jpg",
+   "detail": "https://allgabar.com/archives/742"
+  },
+  {
+   "title": "တစ်နေ့ကို သုံးကြိမ်လိုးတဲ့ ညားခါစ လင်မယား (ေခ်ာင္းရိုက္)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-7.jpg",
+   "detail": "https://allgabar.com/archives/738"
+  },
+  {
+   "title": "ဆော်သေးသေးလေးနဲ့ခြုံတိုးနေတဲ့ ဘဲ ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-6.jpg",
+   "detail": "https://allgabar.com/archives/735"
+  },
+  {
+   "title": "အရမ်းမောလာပြီ ကိုကြီးရယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-5.jpg",
+   "detail": "https://allgabar.com/archives/731"
+  },
+  {
+   "title": "ဘဲရှိပေမယ့် နို့လှန်ပြတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-4.jpg",
+   "detail": "https://allgabar.com/archives/728"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန် ဝတ်ပြီး ကြမ်းတဲ့ ဆော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2-1.jpg",
+   "detail": "https://allgabar.com/archives/725"
+  },
+  {
+   "title": "အဖုတ် သန့်တဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-3.jpg",
+   "detail": "https://allgabar.com/archives/721"
+  },
+  {
+   "title": "တရုတ်ကို ရောင်းစားခံလိုက်ရတဲ့ မြန်မာမလေးတွေရဲ့အောကား ဇာတ်လမ်းရှည်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_2.jpg",
+   "detail": "https://allgabar.com/archives/717"
+  },
+  {
+   "title": "အိမ်က ယောက်ကျားမသိအောင် ကုန်းတဲ့ မမသိဂီၤ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-2.jpg",
+   "detail": "https://allgabar.com/archives/714"
+  },
+  {
+   "title": "ကျောင်းအခန်းထဲမှာ ရှယ်ဗျင်းခံရတဲ့ ဆယ်တန်းကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1-1.jpg",
+   "detail": "https://allgabar.com/archives/711"
+  },
+  {
+   "title": "ထီးအောက်မှာ အဖုတ်ခိုးနှိုက်နေတဲ့ အတွဲ ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/03/Screenshot_1.jpg",
+   "detail": "https://allgabar.com/archives/708"
+  },
+  {
+   "title": "ဘဲရှိရဲ့သားနဲ့နောက်ဘဲနဲ့ဟိုတယ်မှာ ကုန်းနေတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/1-4.jpg",
+   "detail": "https://allgabar.com/archives/705"
+  },
+  {
+   "title": "အရမ်းကို နာနေပြီတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-141.jpg",
+   "detail": "https://allgabar.com/archives/700"
+  },
+  {
+   "title": "ထိုင်းမှာ ကျောင်းတက်ရင်း ထိုင်းကျောင်းဆရာရဲ့တက် အလိုးခံရတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-140.jpg",
+   "detail": "https://allgabar.com/archives/697"
+  },
+  {
+   "title": "ဘဲကို မြင်းစီးရင်း တက်စားတဲ့ စားဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-139.jpg",
+   "detail": "https://allgabar.com/archives/694"
+  },
+  {
+   "title": "လိုးနည်း အစုံနဲ့ ခံလိုက်ရတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-138.jpg",
+   "detail": "https://allgabar.com/archives/691"
+  },
+  {
+   "title": "ကိုယ့်ဆော် ကို သူများ ပေးလိုးတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-137.jpg",
+   "detail": "https://allgabar.com/archives/688"
+  },
+  {
+   "title": "သစ်ပင်အောက်မှာ ပုဆိုးလှန်ပြီး ဘုတဲ့ ဘဲကြီး ( ကိုယ်တိုင်ရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-136.jpg",
+   "detail": "https://allgabar.com/archives/685"
+  },
+  {
+   "title": "ကျမနာမည် အေးသီတာဆိုတဲ့ မြမြ ဇာတ်ကားသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-135.jpg",
+   "detail": "https://allgabar.com/archives/682"
+  },
+  {
+   "title": "ပူစီလေးကို အမှန်အကန်ကျွေးတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-134.jpg",
+   "detail": "https://allgabar.com/archives/678"
+  },
+  {
+   "title": "ကားထဲမှာ ရှယ်ဆွဲနေကြတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-133.jpg",
+   "detail": "https://allgabar.com/archives/675"
+  },
+  {
+   "title": "ဖင်ထဲကို ကိုကာကိုလာ ဗူး အတောင့်လိုက်ထည့်တဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-132.jpg",
+   "detail": "https://allgabar.com/archives/672"
+  },
+  {
+   "title": "ရန်ကုန်အထည်ဆိုင်က ဆော်လေး ရဲ့အောကား အရှည်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-131.jpg",
+   "detail": "https://allgabar.com/archives/669"
+  },
+  {
+   "title": "ဟိုတယ်မှာ ခေါ်ကျွေးတာ ခံလိုက်ရတဲ့ ရှမ်းမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-130.jpg",
+   "detail": "https://allgabar.com/archives/666"
+  },
+  {
+   "title": "မြန်မာကျောင်းသူလေး ကို တောထဲမှာ ခေါ်ဖြုတ်တာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-129.jpg",
+   "detail": "https://allgabar.com/archives/663"
+  },
+  {
+   "title": "ကားပေါ်မှာတင် ဖင်ကုန်းတဲ့ လင်းသဇင် ဆိုတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-128.jpg",
+   "detail": "https://allgabar.com/archives/660"
+  },
+  {
+   "title": "တစ်ယောက်တည်း ယားနေတဲ့ ကျောင်းသူ ရှမ်းမ ချောချောလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-127.jpg",
+   "detail": "https://allgabar.com/archives/657"
+  },
+  {
+   "title": "တစ်ယောက်တည်း အဖုတ် ယားနေတဲ့ မြန်မာ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-126.jpg",
+   "detail": "https://allgabar.com/archives/654"
+  },
+  {
+   "title": "ဖရဲသီးသယ် မြမြ ဇာတ်ကားအသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-125.jpg",
+   "detail": "https://allgabar.com/archives/651"
+  },
+  {
+   "title": "ပေါက်ကြားလာတဲ့ မို ့မို ့မြင့်အောင် အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-19.jpg",
+   "detail": "https://allgabar.com/archives/648"
+  },
+  {
+   "title": "ဟိုတယ်မှာ အန်တီကြီးကို ခေါ်လိုးတဲ့ စားဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-124.jpg",
+   "detail": "https://allgabar.com/archives/643"
+  },
+  {
+   "title": "ဖင်ပေါ်မှာ အရည်ထုတ်တာ ကြိုက်တဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-123.jpg",
+   "detail": "https://allgabar.com/archives/640"
+  },
+  {
+   "title": "သိုင်းပြောင်းပြန် ကျွမ်းတဲ့ မြန်မာမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-122.jpg",
+   "detail": "https://allgabar.com/archives/637"
+  },
+  {
+   "title": "ဖင်ကုန်းပြီး အပေးကြမ်းတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-121.jpg",
+   "detail": "https://allgabar.com/archives/634"
+  },
+  {
+   "title": "ရောင်းစားတာခံလိုက်ရတဲ့ မြန်မာမိန်းကလေးများ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-18.jpg",
+   "detail": "https://allgabar.com/archives/630"
+  },
+  {
+   "title": "နို့လေးတွေ ထွက်ကာစ အပျို ဆယ်တန်းကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-120.jpg",
+   "detail": "https://allgabar.com/archives/627"
+  },
+  {
+   "title": "ရှယ်မိုက်တဲ့ ထိုင်းမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-17.jpg",
+   "detail": "https://allgabar.com/archives/624"
+  },
+  {
+   "title": "Office မှာ ရှယ်ထန်နေတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-16.jpg",
+   "detail": "https://allgabar.com/archives/617"
+  },
+  {
+   "title": "ထန်နေတဲ့ ပအို့မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-15.jpg",
+   "detail": "https://allgabar.com/archives/614"
+  },
+  {
+   "title": "ဖင်အရမ်းလှတဲ့ ရှမ်းမလေးကို လိုးခွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-119.jpg",
+   "detail": "https://allgabar.com/archives/610"
+  },
+  {
+   "title": "မြန်မာဝမ်းဆက် နဲ့ကောင်မလေး ချောင်းရိုက်အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-118.jpg",
+   "detail": "https://allgabar.com/archives/605"
+  },
+  {
+   "title": "အရမ်းကောင်းလို့တဲ့ အော်နေရတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-117.jpg",
+   "detail": "https://allgabar.com/archives/601"
+  },
+  {
+   "title": "လှည်းတန်းသူလေးကို ရှယ်ဖြုတ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-116.jpg",
+   "detail": "https://allgabar.com/archives/593"
+  },
+  {
+   "title": "မောင်ဇော်ချစ်တဲ့ဆရာမလေး ၂",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-115.jpg",
+   "detail": "https://allgabar.com/archives/584"
+  },
+  {
+   "title": "အမုန်းတက်လိုးတဲ့ ဘဲကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-114.jpg",
+   "detail": "https://allgabar.com/archives/580"
+  },
+  {
+   "title": "အမှန်အကုန်ရှယ် လိုးတဲ့ အိမ်တွင်း မြန်မာအောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-113.jpg",
+   "detail": "https://allgabar.com/archives/577"
+  },
+  {
+   "title": "ရှေ့အပေါက်ရော နောက်အပေါက်ရော အဖွင့်ခံလိုက်ရတဲ့ ဆုလင်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-112.jpg",
+   "detail": "https://allgabar.com/archives/574"
+  },
+  {
+   "title": "ရှက်ပေမယ့်လည်း နောက်ဆုံး အရှက်ကုန်သွားရတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-111.jpg",
+   "detail": "https://allgabar.com/archives/571"
+  },
+  {
+   "title": "Valentine Day မှာ ရှယ်ဘုတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-110.jpg",
+   "detail": "https://allgabar.com/archives/568"
+  },
+  {
+   "title": "ချစ်စရာ ဆော်အလန်းလေးကို စား ( ကိုယ်တိုင်ရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-109.jpg",
+   "detail": "https://allgabar.com/archives/565"
+  },
+  {
+   "title": "နေခြည် ဆိုတဲ့ ကောင်မလေး ဘဲနဲ့လိုးတဲ့ Video ပေါက်ကြား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-108.jpg",
+   "detail": "https://allgabar.com/archives/562"
+  },
+  {
+   "title": "တင်းကုပ်မှာ ရှယ်ဗျင်းတဲ့ မြန်မာအတွဲ ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-107-e1708388452173.jpg",
+   "detail": "https://allgabar.com/archives/558"
+  },
+  {
+   "title": "ကောင်မလေးက ချစ်စရာလေး (ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-14.jpg",
+   "detail": "https://allgabar.com/archives/555"
+  },
+  {
+   "title": "မြန်မာအတွဲ နှစ်တွဲ ပြိုင်တူ ဘုကြတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-106.jpg",
+   "detail": "https://allgabar.com/archives/551"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန် ပုဆိုးနဲ့ထမိန် လှန် ကြုံးကြတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-105.jpg",
+   "detail": "https://allgabar.com/archives/548"
+  },
+  {
+   "title": "အောကား အသစ် ထွက်ရှိလာတဲ့ နန်းမွေစံ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-104.jpg",
+   "detail": "https://allgabar.com/archives/545"
+  },
+  {
+   "title": "ကိုရီးယားလို့ထင်နေတာ မြန်မာဖြစ်နေတယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-103.jpg",
+   "detail": "https://allgabar.com/archives/542"
+  },
+  {
+   "title": "တူမ နဲ့ဦးလေး ရေချိုးခန်းထဲ ရှယ်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-102.jpg",
+   "detail": "https://allgabar.com/archives/539"
+  },
+  {
+   "title": "တူဝရီး သူဆဲကိုယ်ဆဲ အပြိုင် လိုးကြတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-101.jpg",
+   "detail": "https://allgabar.com/archives/535"
+  },
+  {
+   "title": "ခွေးကို နို့တိုက်ပြတဲ့ အပြာမင်းသမီး ဖွေးဖွေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-100.jpg",
+   "detail": "https://allgabar.com/archives/532"
+  },
+  {
+   "title": "မနက်စောစော လီးဆာနေတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-99.jpg",
+   "detail": "https://allgabar.com/archives/529"
+  },
+  {
+   "title": "တောထဲမှာ ပွဲကြမ်းနေတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-98.jpg",
+   "detail": "https://allgabar.com/archives/526"
+  },
+  {
+   "title": "မောင်ဇော်ချစ်ရတဲ့ ဆရာမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-97.jpg",
+   "detail": "https://allgabar.com/archives/523"
+  },
+  {
+   "title": "ချောင်းရိုက် အသစ်စက်စက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-96.jpg",
+   "detail": "https://allgabar.com/archives/520"
+  },
+  {
+   "title": "သိန်း 270 ရသွားတဲ့ နန်းမွေစံ ရဲ့ Video",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-95.jpg",
+   "detail": "https://allgabar.com/archives/516"
+  },
+  {
+   "title": "စိတ်ထလာအောင် ဘဲကို လီးစုပ်ပြီး တက်လိုးခိုင်းတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-94.jpg",
+   "detail": "https://allgabar.com/archives/512"
+  },
+  {
+   "title": "Kit ဆိုတဲ့ ကောင်မလေး ပါကင် ဖွင့်ခံရတဲ့ HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-93.jpg",
+   "detail": "https://allgabar.com/archives/508"
+  },
+  {
+   "title": "မညှာမတာလိုးလို့မျက်ရည်ပါ ကျသွားတဲ့ ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-92.jpg",
+   "detail": "https://allgabar.com/archives/490"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန်လေးနဲ့ဟိုတယ်မှာ အလိုးခံတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-91.jpg",
+   "detail": "https://allgabar.com/archives/487"
+  },
+  {
+   "title": "မအေးသီတာလှ မြမြရဲ့ဇာတ်ကားရှည်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-90.jpg",
+   "detail": "https://allgabar.com/archives/484"
+  },
+  {
+   "title": "အပင်အောက်မှာ လိုးချင်သော်လည်း နတ်ကိုင်ခံရမှာ ကြောက်တဲ့အခါ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-89.jpg",
+   "detail": "https://allgabar.com/archives/481"
+  },
+  {
+   "title": "အဖုတ် နှိုက်နေတဲ့ မြန်မာစုံတွဲ (ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-88.jpg",
+   "detail": "https://allgabar.com/archives/477"
+  },
+  {
+   "title": "နာမည်ကြီးနေတဲ့ စိုးပြည့်သဇင် HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-87.jpg",
+   "detail": "https://allgabar.com/archives/472"
+  },
+  {
+   "title": "အကိတ် မမ ဆော်ကြီး လန်းချက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-86.jpg",
+   "detail": "https://allgabar.com/archives/468"
+  },
+  {
+   "title": "ဆယ်တန်းကျောင်းသူလေးကို ရှေ့ပေါက်ရော နောက်ပေါက်ရော ပါကင်ဖွင့်တာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-85.jpg",
+   "detail": "https://allgabar.com/archives/465"
+  },
+  {
+   "title": "စောက်ဖုတ် ဖောင်းဖောင်းလေးနဲ့မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-84.jpg",
+   "detail": "https://allgabar.com/archives/462"
+  },
+  {
+   "title": "တောထဲမှာ အပီအပြင် လိုးတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-83.jpg",
+   "detail": "https://allgabar.com/archives/459"
+  },
+  {
+   "title": "အဖုတ်က ကြပ်နေလို့ထိုးလို့တောင်မရဘူးတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-82.jpg",
+   "detail": "https://allgabar.com/archives/456"
+  },
+  {
+   "title": "ဆော်တွေပြီးရင် ဒီလိုပြီးတယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-81.jpg",
+   "detail": "https://allgabar.com/archives/452"
+  },
+  {
+   "title": "ဆော်ပြီးချက်က အရည်တွေပါ တစ်တောက်တောက်ကျတယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-80.jpg",
+   "detail": "https://allgabar.com/archives/449"
+  },
+  {
+   "title": "နေခြည်ဦး နဲ့ သူ့ဘဲ ရှယ်ဘုထားတဲ့ HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-79.jpg",
+   "detail": "https://allgabar.com/archives/446"
+  },
+  {
+   "title": "မြန်မာကျောင်းဆရာမလေး ပါကင် (အစအဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-78.jpg",
+   "detail": "https://allgabar.com/archives/443"
+  },
+  {
+   "title": "မင်းသမီး ယွန်းယွန်းရဲ့ ထွက်ရှိလာတဲ့ တစ်ညတာ အိမ်တွင်းဖြစ် Homemade",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-77.jpg",
+   "detail": "https://allgabar.com/archives/439"
+  },
+  {
+   "title": "မြန်မာ အပြာမင်းသမီး မြမြ သင်ပေးတဲ့ လိုးနည်း (၅)သွယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-76.jpg",
+   "detail": "https://allgabar.com/archives/435"
+  },
+  {
+   "title": "မိုးပြည့်ပြည့်မောင် ရဲ့ အောကား HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-75.jpg",
+   "detail": "https://allgabar.com/archives/432"
+  },
+  {
+   "title": "Company ပိုင်ရှင် မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-74.jpg",
+   "detail": "https://allgabar.com/archives/428"
+  },
+  {
+   "title": "Chone Chone ရဲ့ အောကား ကိုယ်တိုင်ရိုက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-73.jpg",
+   "detail": "https://allgabar.com/archives/425"
+  },
+  {
+   "title": "ဖူးပွင့်ခိုင် ကို စားဘဲကြီးက ရှယ်လိုးပေးနေတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-72.jpg",
+   "detail": "https://allgabar.com/archives/422"
+  },
+  {
+   "title": "စောက်ရမ်းမိုက်တဲ့ ဖင်ကြီးကို လိုးခွဲတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-71.jpg",
+   "detail": "https://allgabar.com/archives/419"
+  },
+  {
+   "title": "အိမ်မှာ လူမရှိတုန်း အလိုးခံချင်နေတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-70.jpg",
+   "detail": "https://allgabar.com/archives/415"
+  },
+  {
+   "title": "လိုးသာလိုး နာတယ်ဆိုတာ အလကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-69.jpg",
+   "detail": "https://allgabar.com/archives/412"
+  },
+  {
+   "title": "မြင်းစီးနေရမှ အားရတဲ့ မိန်းမ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-68.jpg",
+   "detail": "https://allgabar.com/archives/408"
+  },
+  {
+   "title": "အပျိုဖြစ်ကာစ အငုံးလေးကို အသေလိုးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-67.jpg",
+   "detail": "https://allgabar.com/archives/405"
+  },
+  {
+   "title": "မြမြတို့စုံတွဲနဲ့ဗီယက်နမ်သူလေးတို့ရဲ့လိုးပွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-66.jpg",
+   "detail": "https://allgabar.com/archives/402"
+  },
+  {
+   "title": "ဖင်ကုန်းတာ တော်တဲ့ မေပြည့်စုံအောင်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-65.jpg",
+   "detail": "https://allgabar.com/archives/399"
+  },
+  {
+   "title": "ဝေဠုကျော် နဲ့ သင်းသင်း အောကား အစအဆုံး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-64.jpg",
+   "detail": "https://allgabar.com/archives/396"
+  },
+  {
+   "title": "ထန်းတောထဲမှာ အပီ ကြုံးနေကျတဲ့ စုံတွဲ (ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-63.jpg",
+   "detail": "https://allgabar.com/archives/393"
+  },
+  {
+   "title": "မြန်မာ ချောင်းရိုက် အရှည်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-62.jpg",
+   "detail": "https://allgabar.com/archives/390"
+  },
+  {
+   "title": "Royal D နဲ့အသာဖြေနေတဲ့ ဆော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-61.jpg",
+   "detail": "https://allgabar.com/archives/387"
+  },
+  {
+   "title": "ပါးလေးရိုက်လိုက် လိုးလိုက်နဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-60.jpg",
+   "detail": "https://allgabar.com/archives/384"
+  },
+  {
+   "title": "အရှက်ကုန်ပြီးထန်နေတဲ့ တရုတ်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-59.jpg",
+   "detail": "https://allgabar.com/archives/381"
+  },
+  {
+   "title": "အရေတွေ ရွှဲနေတဲ့ မြန်မာစုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-58.jpg",
+   "detail": "https://allgabar.com/archives/378"
+  },
+  {
+   "title": "ရှယ် အလိုးခံရတဲ့ ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-13.jpg",
+   "detail": "https://allgabar.com/archives/375"
+  },
+  {
+   "title": "ကိုးတန်းကျောင်းသူ အဖုတ် ကိုယ်တိုင်နှိုက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-57.jpg",
+   "detail": "https://allgabar.com/archives/369"
+  },
+  {
+   "title": "လီးစုပ် တော်တဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-56.jpg",
+   "detail": "https://allgabar.com/archives/364"
+  },
+  {
+   "title": "သက်သက်ခိုင် သမီး အဆိုတော် G အောကား",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-55.jpg",
+   "detail": "https://allgabar.com/archives/361"
+  },
+  {
+   "title": "အနီရောင်လေးနဲ့မမ လိုးချက်က လန်ထွက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-12-e1707662914659.jpg",
+   "detail": "https://allgabar.com/archives/358"
+  },
+  {
+   "title": "သူဌေးကတော် မြမြကို တက်ကြုံးတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-54.jpg",
+   "detail": "https://allgabar.com/archives/355"
+  },
+  {
+   "title": "ရှယ်ထု ရှယ်နှိုက် မြန်မာချောင်းရိုက် HD အသစ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-53.jpg",
+   "detail": "https://allgabar.com/archives/352"
+  },
+  {
+   "title": "ဆော်ကို လီးတု နဲ့နှစ်ယောက်တစ်ယောက်ပုံစံ ဘုတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-52.jpg",
+   "detail": "https://allgabar.com/archives/349"
+  },
+  {
+   "title": "အဒေါ်ကြီးကို ရှယ် လီးစုပ်ခိုင်းတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-51.jpg",
+   "detail": "https://allgabar.com/archives/346"
+  },
+  {
+   "title": "အရမ်းမိုက်တဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-50.jpg",
+   "detail": "https://allgabar.com/archives/343"
+  },
+  {
+   "title": "ရွှေမှုန်ရတီ နဲ့ရွှေထူး ဘုနေတဲ့ HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-49.jpg",
+   "detail": "https://allgabar.com/archives/340"
+  },
+  {
+   "title": "ထက်ထက်မိုးဦး အောကား ဘဲက ငယ်ငယ်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-48.jpg",
+   "detail": "https://allgabar.com/archives/337"
+  },
+  {
+   "title": "ဂေါ်လီ လီးနဲ့မှ ခံတဲ့ သင်းသင်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-47.jpg",
+   "detail": "https://allgabar.com/archives/333"
+  },
+  {
+   "title": "စောက်ဖုတ် ဘယ်နားမှာလည်း မေးပြီး လိုးတဲ့ စားဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-46.jpg",
+   "detail": "https://allgabar.com/archives/329"
+  },
+  {
+   "title": "ရည်စားကောင်မလေးကို ဘဲက ရှယ်လိုးတာ (ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-45.jpg",
+   "detail": "https://allgabar.com/archives/326"
+  },
+  {
+   "title": "ယွန်ယွန်းနဲ့စည်သူဝင်း အောကား ပေါက်ကြားလာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-44.jpg",
+   "detail": "https://allgabar.com/archives/323"
+  },
+  {
+   "title": "မမစိမ်း ၏ အချစ်ဇာတ်လမ်း",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-43.jpg",
+   "detail": "https://allgabar.com/archives/320"
+  },
+  {
+   "title": "လိုးနည်းအသစ်နဲ့မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-42.jpg",
+   "detail": "https://allgabar.com/archives/317"
+  },
+  {
+   "title": "မယ်လိုဒီရဲ့ အောကား ဗွက်ပေါက်ရောပဲ ဆော်ချက်က",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-41.jpg",
+   "detail": "https://allgabar.com/archives/313"
+  },
+  {
+   "title": "အချိန်တန်တော့ လီးဝင်သွားတာပါပဲ (ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-40.jpg",
+   "detail": "https://allgabar.com/archives/310"
+  },
+  {
+   "title": "ကိုယ်တိုင်ရိုက်ပြတဲ့ မြန်မာလူငယ်စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-39.jpg",
+   "detail": "https://allgabar.com/archives/306"
+  },
+  {
+   "title": "ရှယ် လီးစုပ်ပေးတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-38.jpg",
+   "detail": "https://allgabar.com/archives/302"
+  },
+  {
+   "title": "ချောင်းကြည့်တဲ့သူတောင် ဖီးလ်တက်ခဲ့ရတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-37.jpg",
+   "detail": "https://allgabar.com/archives/299"
+  },
+  {
+   "title": "ငယ်ငယ်ရွယ်ရွယ် ဆယ်တန်းကျောင်းသူ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-36.jpg",
+   "detail": "https://allgabar.com/archives/296"
+  },
+  {
+   "title": "ဘောစိတစ်ယောက်နဲ့စိုးပြည့်သဇင် ဘုထားတာလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-35-e1707324079149.jpg",
+   "detail": "https://allgabar.com/archives/291"
+  },
+  {
+   "title": "မြန်မာဆယ်တန်း ကျောင်းသူလေး (အသစ်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-34.jpg",
+   "detail": "https://allgabar.com/archives/287"
+  },
+  {
+   "title": "အရှေ့ပေါက်ရော အနောက်ပေါက်ရော အဖွင့်ခံလိုက်တဲ့ ကျောင်းသူလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-33.jpg",
+   "detail": "https://allgabar.com/archives/283"
+  },
+  {
+   "title": "အခန်းထဲမှာ လိုးနေတုန်း အမေက လန်းခေါ်လို့နားလိုက်ရတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_3-2.jpg",
+   "detail": "https://allgabar.com/archives/280"
+  },
+  {
+   "title": "ဖင်ကို ရိုက်လိုးလိုက် ကိုင်လိုးလိုက်နဲ့ရှယ်ပလန်နဲ့တီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_3-1.jpg",
+   "detail": "https://allgabar.com/archives/277"
+  },
+  {
+   "title": "ဆယ်တန်းကျောင်းသူ ၁၆နှစ်အရွယ်လေးရဲ့ ဟုမ်းမိတ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-32.jpg",
+   "detail": "https://allgabar.com/archives/273"
+  },
+  {
+   "title": "ကျမကို ပြီးအောင် မှုတ်ပေးနော်တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-31.jpg",
+   "detail": "https://allgabar.com/archives/270"
+  },
+  {
+   "title": "ဘဲလေးပွေ ဝိုင်းလိုးတာ ခံလိုက်ရတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_3.jpg",
+   "detail": "https://allgabar.com/archives/266"
+  },
+  {
+   "title": "တစ်လှည့်စီ လက်နဲ့ထိုးလိုက် လီးနဲ့ လိုးလိုက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-11.jpg",
+   "detail": "https://allgabar.com/archives/263"
+  },
+  {
+   "title": "တောင်ကြီးမြို့သူ ရှမ်းမ အလန်းလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-10.jpg",
+   "detail": "https://allgabar.com/archives/260"
+  },
+  {
+   "title": "နေမကောင်းလို့အားဆေးတောင် ထိုးထားရပါတယ်ဆိုမှ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-9.jpg",
+   "detail": "https://allgabar.com/archives/257"
+  },
+  {
+   "title": "အထန်လွန် အကြမ်းခံတဲ့ မြန်မာမလေး ချောင်းရိုက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-30.jpg",
+   "detail": "https://allgabar.com/archives/254"
+  },
+  {
+   "title": "လီးအတု နဲ့တစ်ယောက် တစ်လှည့် လိုးပေးနေကြတဲ့ ဖွေးဖွေး တို့နှစ်ယောက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-29.jpg",
+   "detail": "https://allgabar.com/archives/251"
+  },
+  {
+   "title": "ကျောင်းသူ နုနု ပေါက်စနလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-28.jpg",
+   "detail": "https://allgabar.com/archives/248"
+  },
+  {
+   "title": "ကိုကိုရဲ့လီးကို အရမ်းကြိုက်တယ်တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-27.jpg",
+   "detail": "https://allgabar.com/archives/245"
+  },
+  {
+   "title": "စောက်ဖုတ်ယက်နည်း သင်ပေးမယ်ဆိုတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-26.jpg",
+   "detail": "https://allgabar.com/archives/241"
+  },
+  {
+   "title": "အရည်တွေအများကြီးနဲ့ရှယ်လိုးကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-25.jpg",
+   "detail": "https://allgabar.com/archives/237"
+  },
+  {
+   "title": "ကျောင်းသူအချောကလေး ကားထဲမှာ ရှယ်အဗျင်းခံရ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_4.jpg",
+   "detail": "https://allgabar.com/archives/232"
+  },
+  {
+   "title": "ဆော်ကြီး ပီးသွားတာ အရည်တွေ ပြစ်နေတာပဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-24.jpg",
+   "detail": "https://allgabar.com/archives/229"
+  },
+  {
+   "title": "အရမ်းမိုက်တဲ့ အိုးပိုင်ရှင်ကြီးကို လိုးခွဲ( ချောင်းရိုက်)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-23.jpg",
+   "detail": "https://allgabar.com/archives/225"
+  },
+  {
+   "title": "ဆော်အလန်းအကိတ်ကလေး ထန်ချက်က အရည်ပါ ထွက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-22.jpg",
+   "detail": "https://allgabar.com/archives/222"
+  },
+  {
+   "title": "ချောင်းရိုက်အသစ် ရှယ်အကြည် HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-21.jpg",
+   "detail": "https://allgabar.com/archives/219"
+  },
+  {
+   "title": "ထိရဲ့လားမေးမေးပြီးတော့ အသေလိုးတဲ့ ဘဲကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-20.jpg",
+   "detail": "https://allgabar.com/archives/213"
+  },
+  {
+   "title": "အရမ်းနာတယ် ဖြေးဖြေးလိုးပါတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-19.jpg",
+   "detail": "https://allgabar.com/archives/209"
+  },
+  {
+   "title": "အိပ်နေတုန်း အလိုးခံလိုက်ရတဲ့ ဖွေးဖွေး (စဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-8.jpg",
+   "detail": "https://allgabar.com/archives/206"
+  },
+  {
+   "title": "အဖုတ်အရမ်း သန့်တဲ့ မြန်မာမလေး HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-18.jpg",
+   "detail": "https://allgabar.com/archives/202"
+  },
+  {
+   "title": "ကုတင်ကျိုးအောင် အလိုးကြမ်းတဲ့ မြန်မာ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-17.jpg",
+   "detail": "https://allgabar.com/archives/199"
+  },
+  {
+   "title": "တစ်ဆုံးအထိ ထည့်ပြီး မညှာတမ်း လိုးပေးပါဆိုတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-16.jpg",
+   "detail": "https://allgabar.com/archives/195"
+  },
+  {
+   "title": "အရမ်းကို ရွနေပြီ မရတော့ဘူး လိုးပေးပါ လိုးပေးပါတော့တဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-7.jpg",
+   "detail": "https://allgabar.com/archives/192"
+  },
+  {
+   "title": "မင်းသမီး ပိုးကြာဖြူခင်ကို သိန်းတစ်သောင်းနဲ့တင်တောင်းတဲ့ စားဘဲကြီး CCTV",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-6.jpg",
+   "detail": "https://allgabar.com/archives/188"
+  },
+  {
+   "title": "ကျောင်းသူလေးဆိုတော့ အသေလိုးတဲ့သူနဲ့တွေ့တဲ့အခါ အော်နေရရှာတယ်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-15.jpg",
+   "detail": "https://allgabar.com/archives/185"
+  },
+  {
+   "title": "သေချာပြန်ဖွတ်ထားမယ် ဘယ်သူမှပြန်မပြဘူးဆိုပြီး အလင်းပြလိုက်တဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-14.jpg",
+   "detail": "https://allgabar.com/archives/181"
+  },
+  {
+   "title": "ရည်းစားဟောင်းကို ဖင်ကုန်းပေးတဲ့ Videoဖိုင် ပေါက်ကြားလာတဲ့ ပိုးကြာဖြူခင်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/1-3.jpg",
+   "detail": "https://allgabar.com/archives/178"
+  },
+  {
+   "title": "၀တ်မှုန်ရွှေရည် ပြင်ဦးလွင်ရောက်တုန်း ထွက်လာတဲ့ HD",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/1-2.jpg",
+   "detail": "https://allgabar.com/archives/173"
+  },
+  {
+   "title": "သင်ဇာကို ထောင်ထဲမှာ စစ်သားတွေ ဝိုင်းကြုံးတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/1-1.jpg",
+   "detail": "https://allgabar.com/archives/170"
+  },
+  {
+   "title": "သခွားသီးကြီး အတောင့်လိုက် ထိုးထည့်ပြတဲ့ စော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/1.jpg",
+   "detail": "https://allgabar.com/archives/162"
+  },
+  {
+   "title": "ဆုလှိုင်ဝင်းကို အပေါ်ကနေခိုင်းပြီး ဖင်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-5.jpg",
+   "detail": "https://allgabar.com/archives/159"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန်မိန်းကလေးကို နိုင်ငံခြားသား အဖြူကောင်က ခေါ်စားတာ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-13-e1706892570218.jpg",
+   "detail": "https://allgabar.com/archives/156"
+  },
+  {
+   "title": "အနောက်ပေါက်ကို ရှယ်ဖွင့်နေတဲ့ ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-12.jpg",
+   "detail": "https://allgabar.com/archives/153"
+  },
+  {
+   "title": "စုပ်တာတောင် ရုပ်ပြောင်ပြီး စုပ်နေတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-4.jpg",
+   "detail": "https://allgabar.com/archives/150"
+  },
+  {
+   "title": "ရေခဲချောင်း စုပ်တာ အရမ်းတော်တဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-3.jpg",
+   "detail": "https://allgabar.com/archives/147"
+  },
+  {
+   "title": "ကျောင်းဆရာမပေါက်စလေး ကို အသေဆော်တဲ့ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-11.jpg",
+   "detail": "https://allgabar.com/archives/144"
+  },
+  {
+   "title": "ခံတဲ့နေရာမှာ ပတ်စက်တဲ့ အထန်မလေး မိုးနဒီ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-10.jpg",
+   "detail": "https://allgabar.com/archives/136"
+  },
+  {
+   "title": "လူလစ်မှ ဘာဂျာ အားရပါးရ မှုတ်ပါ ( မြမြ)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-9.jpg",
+   "detail": "https://allgabar.com/archives/133"
+  },
+  {
+   "title": "ကိုယ့်ယောက်ကျားကို တခြားဆော်နဲ့ပေးလိုးခိုင်းတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-8.jpg",
+   "detail": "https://allgabar.com/archives/130"
+  },
+  {
+   "title": "မြန်မာ homemadeထဲမှာ အလိုးကြမ်းတဲ့ အတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-7.jpg",
+   "detail": "https://allgabar.com/archives/127"
+  },
+  {
+   "title": "မြန်မာထဲမှာတော့ အတော်ထန်ပြီး အပေးအရမ်းကောင်းတဲ့ ဆော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-2.jpg",
+   "detail": "https://allgabar.com/archives/124"
+  },
+  {
+   "title": "ဟိုတယ်မှာ ဘဲခေါ်ပြီး လိုးပြတဲ့ စားစော်ကြီး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-6.jpg",
+   "detail": "https://allgabar.com/archives/119"
+  },
+  {
+   "title": "မြန်မာ HDအသစ်ထွက်လာတဲ့ ကောင်မလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-5.jpg",
+   "detail": "https://allgabar.com/archives/116"
+  },
+  {
+   "title": "အပေး စောက်ရမ်းကောင်းတဲ့စော်ကို ဖင်ထောင်လိုး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-4.jpg",
+   "detail": "https://allgabar.com/archives/113"
+  },
+  {
+   "title": "ရှယ်ပလန်နဲ့အလိုးခံနေရတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-3.jpg",
+   "detail": "https://allgabar.com/archives/110"
+  },
+  {
+   "title": "အထည်ချုပ် အလုပ်သမားလေး မြမြရဲ့ဘဝ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-2.jpg",
+   "detail": "https://allgabar.com/archives/106"
+  },
+  {
+   "title": "အိမ်ထဲမှာ ဇိမ်ပြေနေပြေ လိုးနေကြတဲ့ မြန်မာစုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1-1.jpg",
+   "detail": "https://allgabar.com/archives/103"
+  },
+  {
+   "title": "ယောက်ကျားရှေ့မှာ တခြားဘဲနဲ့ကုန်းတဲ့ မြမြ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_1.jpg",
+   "detail": "https://allgabar.com/archives/100"
+  },
+  {
+   "title": "တစ်ယောက်တည်း ထန်နေတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2-1.jpg",
+   "detail": "https://allgabar.com/archives/96"
+  },
+  {
+   "title": "မြန်မာစုံတွဲ အကြမ်းစားလိုးနေတဲ့ ချောင်းရိုက်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/02/Screenshot_2.jpg",
+   "detail": "https://allgabar.com/archives/93"
+  },
+  {
+   "title": "မြန်မာ ကိုယ်တိုင်ရိုက် အလန်းဇယားလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-14.jpg",
+   "detail": "https://allgabar.com/archives/89"
+  },
+  {
+   "title": "ဆေးကျောင်းသူလေး ဖာဆန်ဆန် ထန်ချက်ကတော့ လိုက်လို့တောင်မမှီတော့ဘူး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-13.jpg",
+   "detail": "https://allgabar.com/archives/86"
+  },
+  {
+   "title": "ချုံထဲမှာ ခိုးလိုးနေကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-12.jpg",
+   "detail": "https://allgabar.com/archives/83"
+  },
+  {
+   "title": "အဆောက်အဦးပျက်ထဲမှာ ခိုးလိုးနေကြတဲ့ စုံတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-11.jpg",
+   "detail": "https://allgabar.com/archives/80"
+  },
+  {
+   "title": "ကျမ အဖုတ် ကလေး ပြဲကုန်တော့မှာပဲတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-9.jpg",
+   "detail": "https://allgabar.com/archives/74"
+  },
+  {
+   "title": "မြန်မာမလေး မေနဲ့ဟော်တယ်မှာ အပြီးဖြုတ်တဲ့ ဘဲ( စဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-8.jpg",
+   "detail": "https://allgabar.com/archives/70"
+  },
+  {
+   "title": "မြန်မာဆန်ဆန် မေရဲ့ စောက်ဖုတ် ပေါ် သုတ်ရည်ဖြန်း (စဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-7.jpg",
+   "detail": "https://allgabar.com/archives/67"
+  },
+  {
+   "title": "လက်ထိပ်နဲ့အပီအပြင်အလိုးခံနေတဲ့ မြမြ ( စဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-6.jpg",
+   "detail": "https://allgabar.com/archives/64"
+  },
+  {
+   "title": "လူရှင်းတာကို အခြေအနေကြည့် မူစကူဒူးနေတဲ့ မြန်မာစုံတွဲ(စဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-5.jpg",
+   "detail": "https://allgabar.com/archives/55"
+  },
+  {
+   "title": "သူငယ်ချင်းကို အမှတ်တရဆိုပြီး ပြန်စား (စ/ဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-4.jpg",
+   "detail": "https://allgabar.com/archives/51"
+  },
+  {
+   "title": "စပွန်ဆာထားတာ လူမိသွားလို့နောက်ဆုံးအကြိမ် လာကုန်းပေးတာတဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-2.jpg",
+   "detail": "https://allgabar.com/archives/45"
+  },
+  {
+   "title": "ရန်ကုန်တက္ကသိုလ်က ရခိုင်မလေး (စ/ဆုံး)",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_1-1.jpg",
+   "detail": "https://allgabar.com/archives/42"
+  },
+  {
+   "title": "ဟိုတည်မှာကြမ်းတဲ့ မြန်မာအတွဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_7.jpg",
+   "detail": "https://allgabar.com/archives/36"
+  },
+  {
+   "title": "အရည်တွေကိုပါ မြိုချပေးတဲ့ စော်လေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Screenshot_6.jpg",
+   "detail": "https://allgabar.com/archives/29"
+  },
+  {
+   "title": "ကိုကိုနဲ့သာဆိုအပေါ်ကတတ်လိုးတဲ့ဆော်",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Picsart_24-01-29_01-36-26-544.jpg",
+   "detail": "https://allgabar.com/archives/26"
+  },
+  {
+   "title": "ဇာတ်ကားကြည့်ရင်ဖီးလ်လိုးနေတဲ့ဘဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2024/01/Picsart_24-01-29_01-54-47-176.jpg",
+   "detail": "https://allgabar.com/archives/21"
   }
  ]
 }
