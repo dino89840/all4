@@ -3,15 +3,15 @@
   "complete": true,
   "mode": "incremental",
   "totalPages": 729,
-  "totalItems": 14566,
+  "totalItems": 14569,
   "lastPageFetched": 729,
   "failedPages": [],
   "lastFullCheck": "2026-10-16T09:15:34+00:00",
-  "asOf": "2026-10-16T09:24:48+00:00",
+  "asOf": "2026-10-16T10:01:21+00:00",
   "firstItem": {
-   "title": "ကိုကိုနာနေပီတဲ့",
-   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/ကိုကိုနာနေပီတဲ့.webp",
-   "detail": "https://allgabar.com/archives/50249"
+   "title": "နို့အကိတ်နဲ့လိုးလို့ကောင်းတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/နို့အကိတ်နဲ့လိုးလို့ကောင်းတဲ့-မြန်မာမလေး.webp",
+   "detail": "https://allgabar.com/archives/50258"
   },
   "lastItem": {
    "title": "ဇာတ်ကားကြည့်ရင်ဖီးလ်လိုးနေတဲ့ဘဲ",
@@ -20,6 +20,21 @@
   }
  },
  "items": [
+  {
+   "title": "နို့အကိတ်နဲ့လိုးလို့ကောင်းတဲ့ မြန်မာမလေး",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/နို့အကိတ်နဲ့လိုးလို့ကောင်းတဲ့-မြန်မာမလေး.webp",
+   "detail": "https://allgabar.com/archives/50258"
+  },
+  {
+   "title": "ပီးတဲ့အချိန် အဖုတ်ထဲလီးစိမ်ထားတဲ့အရသာက ရှယ်ပဲ",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/ပီးတဲ့အချိန်-အဖုတ်ထဲလီးစိမ်ထားတဲ့အရသာက-ရှယ်ပဲ.webp",
+   "detail": "https://allgabar.com/archives/50255"
+  },
+  {
+   "title": "ဖင်ကုန်းပီးဖြဲပြ ဖြုစိမ်းလေးနဲ့",
+   "thumb": "https://allgabar.com/wp-content/uploads/2026/10/ဖင်ကုန်းပီးဖြဲပြ-ဖြုစိမ်းလေးနဲ့.webp",
+   "detail": "https://allgabar.com/archives/50251"
+  },
   {
    "title": "ကိုကိုနာနေပီတဲ့",
    "thumb": "https://allgabar.com/wp-content/uploads/2026/10/ကိုကိုနာနေပီတဲ့.webp",
